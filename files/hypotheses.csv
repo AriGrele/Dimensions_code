@@ -1,0 +1,8 @@
+Hypothesis,Causal paths,Sites tested
+"Bottom-up diversity: Host plant diversity impacts insect richness through multiple mechanisms, such as reducing host density, masking or amplifying host signals, or altering the proportion of specialist herbivores (1, 2-3)","All models, paths A, C",All sites
+"Neighborhood effects: Plant diversity directly affects herbivory through mechanisms which do not alter herbivore diversity (1, 2)","All models, paths B, D",All sites
+"Water availability affects herbivore diversity: Water stress induced changes to plant defenses can benefit or harm different herbivore taxa, leading to changes in herbivore diversity (4, 5)","Models I, IV, path G","CR, EC, PE"
+"Plant stress hypothesis: Water stress directly affects plant physiology, altering both the nutritive quality of plant tissue and the ability of plants to combat herbivores and leading to increased herbivory in stressed plants (6)","Models I, II, IV, V, path F","CR, EC, PE"
+"Plant diversity affects plant survival: Changes in plant genetic diversity affect the ability of communities and populations to respond to stressors, altering plant survival (7)","Models IV, V, VI, paths H, I",All sites
+Water stress affects plant survival: Extreme changes in water availability induce physiological stress in plants leading to reduced survival (8),"Models, IV, V, path K","CR, EC, PE"
+Herbivory affects plant survival: Tissue loss due to herbivory leads to reduced survival (9),"Models IV, V, VI, path J",All sites

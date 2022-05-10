@@ -1,0 +1,3540 @@
+site,block,plot,species,plant_code,date,herb,surv_next,div,clone,flood
+Brazil,1,A1,L,427,1,25,1,3,clone,no
+Brazil,1,A1,L,432,1,0,0,3,clone,no
+Brazil,1,A1,M,428,1,18,1,3,clone,no
+Brazil,1,A1,M,429,1,16.3333333333333,1,3,clone,no
+Brazil,1,A1,V,430,1,19.2,1,3,clone,no
+Brazil,1,A1,V,431,1,12.5,1,3,clone,no
+Brazil,2,A2,L,494,1,0,1,3,clone,no
+Brazil,2,A2,L,495,1,3,0,3,clone,no
+Brazil,2,A2,M,384,1,42.5,1,3,clone,no
+Brazil,2,A2,V,382,1,28,1,3,clone,no
+Brazil,2,A2,V,449,1,33.2,1,3,clone,no
+Brazil,3,A3,L,310,1,0,1,3,clone,no
+Brazil,3,A3,M,312,1,0,1,3,clone,no
+Brazil,3,A3,M,500,1,0,1,3,clone,no
+Brazil,3,A3,V,309,1,0,1,3,clone,no
+Brazil,1,B1,M,413,1,0,1,1,clone,no
+Brazil,1,B1,M,415,1,14.3333333333333,1,1,clone,no
+Brazil,1,B1,M,417,1,24,1,1,clone,no
+Brazil,1,B1,M,418,1,0,1,1,clone,no
+Brazil,1,B1,M,419,1,0,1,1,clone,no
+Brazil,1,B1,M,420,1,27,1,1,clone,no
+Brazil,2,B2,M,355,1,50,0,1,clone,no
+Brazil,2,B2,M,357,1,0,1,1,clone,no
+Brazil,3,B3,M,320,1,0,1,1,clone,no
+Brazil,1,C1,L,439,1,5,1,1,clone,no
+Brazil,1,C1,L,440,1,13,1,1,clone,no
+Brazil,1,C1,L,441,1,9.2,1,1,clone,no
+Brazil,1,C1,L,442,1,0,1,1,clone,no
+Brazil,2,C2,L,367,1,0,1,1,clone,no
+Brazil,2,C2,L,369,1,0,1,1,clone,no
+Brazil,2,C2,L,370,1,12,1,1,clone,no
+Brazil,2,C2,L,372,1,4.33333333333333,1,1,clone,no
+Brazil,2,C2,L,446,1,7,1,1,clone,no
+Brazil,3,C3,L,337,1,0,1,1,clone,no
+Brazil,3,C3,L,338,1,17,1,1,clone,no
+Brazil,3,C3,L,341,1,0,1,1,clone,no
+Brazil,3,C3,L,342,1,4,1,1,clone,no
+Brazil,3,C3,L,496,1,3,1,1,clone,no
+Brazil,3,C3,L,497,1,6,1,1,clone,no
+Brazil,1,D1,V,404,1,0,1,1,clone,no
+Brazil,1,D1,V,405,1,18,1,1,clone,no
+Brazil,1,D1,V,406,1,0,1,1,clone,no
+Brazil,1,D1,V,408,1,0,1,1,clone,no
+Brazil,1,D1,V,453,1,11.3333333333333,1,1,clone,no
+Brazil,1,D1,V,454,1,0,1,1,clone,no
+Brazil,1,D1,V,455,1,18,1,1,clone,no
+Brazil,2,D2,V,385,1,0,1,1,clone,no
+Brazil,2,D2,V,386,1,0,1,1,clone,no
+Brazil,2,D2,V,387,1,0,1,1,clone,no
+Brazil,2,D2,V,388,1,0,1,1,clone,no
+Brazil,2,D2,V,389,1,0,1,1,clone,no
+Brazil,2,D2,V,450,1,0,1,1,clone,no
+Brazil,3,D3,V,313,1,0,1,1,clone,no
+Brazil,3,D3,V,314,1,0,1,1,clone,no
+Brazil,3,D3,V,315,1,0,1,1,clone,no
+Brazil,3,D3,V,316,1,0,1,1,clone,no
+Brazil,3,D3,V,317,1,0,1,1,clone,no
+Brazil,3,D3,V,318,1,0,1,1,clone,no
+Brazil,1,E1,L,409,1,0,1,3,ind,no
+Brazil,1,E1,L,411,1,3,1,3,ind,no
+Brazil,1,E1,M,451,1,50,1,3,ind,no
+Brazil,1,E1,V,412,1,27.4,1,3,ind,no
+Brazil,1,E1,V,445,1,0,1,3,ind,no
+Brazil,2,E2,M,396,1,0,1,3,ind,no
+Brazil,2,E2,V,393,1,0,1,3,ind,no
+Brazil,2,E2,V,394,1,0,1,3,ind,no
+Brazil,3,E3,L,346,1,34,0,3,ind,no
+Brazil,3,E3,M,345,1,0,1,3,ind,no
+Brazil,3,E3,M,347,1,0,1,3,ind,no
+Brazil,3,E3,V,348,1,12.3333333333333,1,3,ind,no
+Brazil,1,F1,M,397,1,0,1,1,ind,no
+Brazil,1,F1,M,398,1,0,1,1,ind,no
+Brazil,1,F1,M,401,1,0,1,1,ind,no
+Brazil,1,F1,M,402,1,0,1,1,ind,no
+Brazil,2,F2,M,362,1,0,1,1,ind,no
+Brazil,2,F2,M,363,1,14.5,0,1,ind,no
+Brazil,2,F2,M,365,1,50,1,1,ind,no
+Brazil,2,F2,M,498,1,60,0,1,ind,no
+Brazil,3,F3,M,301,1,0,1,1,ind,no
+Brazil,3,F3,M,302,1,0,1,1,ind,no
+Brazil,3,F3,M,303,1,0,1,1,ind,no
+Brazil,3,F3,M,304,1,4.5,1,1,ind,no
+Brazil,3,F3,M,305,1,0,1,1,ind,no
+Brazil,3,F3,M,308,1,0,1,1,ind,no
+Brazil,1,G1,L,421,1,8,0,1,ind,no
+Brazil,1,G1,L,422,1,17,1,1,ind,no
+Brazil,1,G1,L,423,1,20,1,1,ind,no
+Brazil,1,G1,L,424,1,9,1,1,ind,no
+Brazil,1,G1,L,425,1,28,1,1,ind,no
+Brazil,1,G1,L,426,1,0,1,1,ind,no
+Brazil,2,G2,L,373,1,11,1,1,ind,no
+Brazil,2,G2,L,376,1,9.72727272727273,1,1,ind,no
+Brazil,2,G2,L,378,1,3.33333333333333,0,1,ind,no
+Brazil,2,G2,L,447,1,18,1,1,ind,no
+Brazil,2,G2,L,448,1,55,0,1,ind,no
+Brazil,3,G3,L,331,1,1,0,1,ind,no
+Brazil,3,G3,L,332,1,0,1,1,ind,no
+Brazil,3,G3,L,335,1,0,1,1,ind,no
+Brazil,3,G3,L,336,1,4,1,1,ind,no
+Brazil,1,H1,V,433,1,32.5,1,1,ind,no
+Brazil,1,H1,V,434,1,14,1,1,ind,no
+Brazil,1,H1,V,435,1,2,1,1,ind,no
+Brazil,1,H1,V,436,1,4,1,1,ind,no
+Brazil,1,H1,V,437,1,3.5,1,1,ind,no
+Brazil,1,H1,V,452,1,18,1,1,ind,no
+Brazil,2,H2,V,349,1,12,1,1,ind,no
+Brazil,2,H2,V,350,1,23.5,1,1,ind,no
+Brazil,2,H2,V,351,1,2,0,1,ind,no
+Brazil,2,H2,V,352,1,29.875,1,1,ind,no
+Brazil,2,H2,V,353,1,30,1,1,ind,no
+Brazil,2,H2,V,354,1,0,1,1,ind,no
+Brazil,3,H3,V,325,1,0,1,1,ind,no
+Brazil,3,H3,V,326,1,0,1,1,ind,no
+Brazil,3,H3,V,327,1,0,1,1,ind,no
+Brazil,3,H3,V,329,1,0,1,1,ind,no
+Brazil,1,A1,L,427,2,25,0,3,clone,no
+Brazil,1,A1,L,432,2,NA,0,3,clone,no
+Brazil,1,A1,M,428,2,16,0,3,clone,no
+Brazil,1,A1,M,429,2,16.3333333333333,1,3,clone,no
+Brazil,1,A1,V,430,2,22.2,1,3,clone,no
+Brazil,1,A1,V,431,2,10.4,1,3,clone,no
+Brazil,2,A2,L,494,2,2,0,3,clone,no
+Brazil,2,A2,L,495,2,NA,0,3,clone,no
+Brazil,2,A2,M,384,2,42.5,1,3,clone,no
+Brazil,2,A2,V,382,2,13.5714285714286,1,3,clone,no
+Brazil,2,A2,V,449,2,24.25,1,3,clone,no
+Brazil,3,A3,L,310,2,1,0,3,clone,no
+Brazil,3,A3,M,312,2,21,0,3,clone,no
+Brazil,3,A3,M,500,2,12,1,3,clone,no
+Brazil,3,A3,V,309,2,22.6,1,3,clone,no
+Brazil,1,B1,M,413,2,2,0,1,clone,no
+Brazil,1,B1,M,415,2,14.3333333333333,1,1,clone,no
+Brazil,1,B1,M,417,2,24,1,1,clone,no
+Brazil,1,B1,M,418,2,0,1,1,clone,no
+Brazil,1,B1,M,419,2,58.3333333333333,1,1,clone,no
+Brazil,1,B1,M,420,2,27,1,1,clone,no
+Brazil,2,B2,M,355,2,NA,0,1,clone,no
+Brazil,2,B2,M,357,2,29,1,1,clone,no
+Brazil,3,B3,M,320,2,2,0,1,clone,no
+Brazil,1,C1,L,439,2,5,0,1,clone,no
+Brazil,1,C1,L,440,2,14,0,1,clone,no
+Brazil,1,C1,L,441,2,13,1,1,clone,no
+Brazil,1,C1,L,442,2,10,0,1,clone,no
+Brazil,2,C2,L,367,2,0,1,1,clone,no
+Brazil,2,C2,L,369,2,2,0,1,clone,no
+Brazil,2,C2,L,370,2,12,0,1,clone,no
+Brazil,2,C2,L,372,2,5.66666666666667,1,1,clone,no
+Brazil,2,C2,L,446,2,10,1,1,clone,no
+Brazil,3,C3,L,337,2,9,0,1,clone,no
+Brazil,3,C3,L,338,2,17,0,1,clone,no
+Brazil,3,C3,L,341,2,50,0,1,clone,no
+Brazil,3,C3,L,342,2,8.66666666666667,0,1,clone,no
+Brazil,3,C3,L,496,2,3,0,1,clone,no
+Brazil,3,C3,L,497,2,6,0,1,clone,no
+Brazil,1,D1,V,404,2,50,1,1,clone,no
+Brazil,1,D1,V,405,2,18,1,1,clone,no
+Brazil,1,D1,V,406,2,13.5,0,1,clone,no
+Brazil,1,D1,V,408,2,13,0,1,clone,no
+Brazil,1,D1,V,453,2,17.25,1,1,clone,no
+Brazil,1,D1,V,454,2,9.75,1,1,clone,no
+Brazil,1,D1,V,455,2,18,0,1,clone,no
+Brazil,2,D2,V,385,2,15.25,1,1,clone,no
+Brazil,2,D2,V,386,2,4.5,1,1,clone,no
+Brazil,2,D2,V,387,2,13.7142857142857,1,1,clone,no
+Brazil,2,D2,V,388,2,25.3333333333333,1,1,clone,no
+Brazil,2,D2,V,389,2,12,1,1,clone,no
+Brazil,2,D2,V,450,2,15.6666666666667,1,1,clone,no
+Brazil,3,D3,V,313,2,9.5,0,1,clone,no
+Brazil,3,D3,V,314,2,36.3333333333333,0,1,clone,no
+Brazil,3,D3,V,315,2,7.4,0,1,clone,no
+Brazil,3,D3,V,316,2,21.25,0,1,clone,no
+Brazil,3,D3,V,317,2,55,0,1,clone,no
+Brazil,3,D3,V,318,2,9,0,1,clone,no
+Brazil,1,E1,L,409,2,7,1,3,ind,no
+Brazil,1,E1,L,411,2,3,1,3,ind,no
+Brazil,1,E1,M,451,2,50,0,3,ind,no
+Brazil,1,E1,V,412,2,31,1,3,ind,no
+Brazil,1,E1,V,445,2,23,1,3,ind,no
+Brazil,2,E2,M,396,2,16.6666666666667,1,3,ind,no
+Brazil,2,E2,V,393,2,14,1,3,ind,no
+Brazil,2,E2,V,394,2,26,0,3,ind,no
+Brazil,3,E3,L,346,2,NA,0,3,ind,no
+Brazil,3,E3,M,345,2,5,0,3,ind,no
+Brazil,3,E3,M,347,2,11,0,3,ind,no
+Brazil,3,E3,V,348,2,18.2222222222222,0,3,ind,no
+Brazil,1,F1,M,397,2,42.5,1,1,ind,no
+Brazil,1,F1,M,398,2,9,1,1,ind,no
+Brazil,1,F1,M,401,2,25,0,1,ind,no
+Brazil,1,F1,M,402,2,45.8333333333333,1,1,ind,no
+Brazil,2,F2,M,362,2,0,1,1,ind,no
+Brazil,2,F2,M,363,2,NA,0,1,ind,no
+Brazil,2,F2,M,365,2,0,1,1,ind,no
+Brazil,2,F2,M,498,2,NA,0,1,ind,no
+Brazil,3,F3,M,301,2,3.33333333333333,1,1,ind,no
+Brazil,3,F3,M,302,2,8,1,1,ind,no
+Brazil,3,F3,M,303,2,0,1,1,ind,no
+Brazil,3,F3,M,304,2,4.5,1,1,ind,no
+Brazil,3,F3,M,305,2,36,1,1,ind,no
+Brazil,3,F3,M,308,2,21,1,1,ind,no
+Brazil,1,G1,L,421,2,NA,0,1,ind,no
+Brazil,1,G1,L,422,2,4,1,1,ind,no
+Brazil,1,G1,L,423,2,12.5,0,1,ind,no
+Brazil,1,G1,L,424,2,6,0,1,ind,no
+Brazil,1,G1,L,425,2,30,0,1,ind,no
+Brazil,1,G1,L,426,2,0,1,1,ind,no
+Brazil,2,G2,L,373,2,9.66666666666667,1,1,ind,no
+Brazil,2,G2,L,376,2,13.1428571428571,1,1,ind,no
+Brazil,2,G2,L,378,2,NA,0,1,ind,no
+Brazil,2,G2,L,447,2,18,0,1,ind,no
+Brazil,2,G2,L,448,2,NA,0,1,ind,no
+Brazil,3,G3,L,331,2,NA,0,1,ind,no
+Brazil,3,G3,L,332,2,3,0,1,ind,no
+Brazil,3,G3,L,335,2,7.5,0,1,ind,no
+Brazil,3,G3,L,336,2,5.33333333333333,0,1,ind,no
+Brazil,1,H1,V,433,2,25,1,1,ind,no
+Brazil,1,H1,V,434,2,16,1,1,ind,no
+Brazil,1,H1,V,435,2,10,0,1,ind,no
+Brazil,1,H1,V,436,2,3.5,1,1,ind,no
+Brazil,1,H1,V,437,2,3.33333333333333,1,1,ind,no
+Brazil,1,H1,V,452,2,23.3333333333333,1,1,ind,no
+Brazil,2,H2,V,349,2,14.5,0,1,ind,no
+Brazil,2,H2,V,350,2,26.75,0,1,ind,no
+Brazil,2,H2,V,351,2,NA,0,1,ind,no
+Brazil,2,H2,V,352,2,25.8888888888889,1,1,ind,no
+Brazil,2,H2,V,353,2,70,0,1,ind,no
+Brazil,2,H2,V,354,2,4,0,1,ind,no
+Brazil,3,H3,V,325,2,12,1,1,ind,no
+Brazil,3,H3,V,326,2,19.75,0,1,ind,no
+Brazil,3,H3,V,327,2,8.66666666666667,0,1,ind,no
+Brazil,3,H3,V,329,2,9.5,0,1,ind,no
+Brazil,1,A1,L,427,3,NA,,3,clone,no
+Brazil,1,A1,L,432,3,NA,,3,clone,no
+Brazil,1,A1,M,428,3,NA,,3,clone,no
+Brazil,1,A1,M,429,3,22.5,,3,clone,no
+Brazil,1,A1,V,430,3,29,,3,clone,no
+Brazil,1,A1,V,431,3,14.4,,3,clone,no
+Brazil,2,A2,L,494,3,NA,,3,clone,no
+Brazil,2,A2,L,495,3,NA,,3,clone,no
+Brazil,2,A2,M,384,3,42.5,,3,clone,no
+Brazil,2,A2,V,382,3,8.5,,3,clone,no
+Brazil,2,A2,V,449,3,14.3333333333333,,3,clone,no
+Brazil,3,A3,L,310,3,NA,,3,clone,no
+Brazil,3,A3,M,312,3,NA,,3,clone,no
+Brazil,3,A3,M,500,3,26.3333333333333,,3,clone,no
+Brazil,3,A3,V,309,3,34.1666666666667,,3,clone,no
+Brazil,1,B1,M,413,3,NA,,1,clone,no
+Brazil,1,B1,M,415,3,14.3333333333333,,1,clone,no
+Brazil,1,B1,M,417,3,30.8571428571429,,1,clone,no
+Brazil,1,B1,M,418,3,60,,1,clone,no
+Brazil,1,B1,M,419,3,72.5,,1,clone,no
+Brazil,1,B1,M,420,3,18.4,,1,clone,no
+Brazil,2,B2,M,355,3,NA,,1,clone,no
+Brazil,2,B2,M,357,3,29,,1,clone,no
+Brazil,3,B3,M,320,3,NA,,1,clone,no
+Brazil,1,C1,L,439,3,NA,,1,clone,no
+Brazil,1,C1,L,440,3,NA,,1,clone,no
+Brazil,1,C1,L,441,3,18,,1,clone,no
+Brazil,1,C1,L,442,3,NA,,1,clone,no
+Brazil,2,C2,L,367,3,5,,1,clone,no
+Brazil,2,C2,L,369,3,NA,,1,clone,no
+Brazil,2,C2,L,370,3,NA,,1,clone,no
+Brazil,2,C2,L,372,3,23.75,,1,clone,no
+Brazil,2,C2,L,446,3,20.8571428571429,,1,clone,no
+Brazil,3,C3,L,337,3,NA,,1,clone,no
+Brazil,3,C3,L,338,3,NA,,1,clone,no
+Brazil,3,C3,L,341,3,NA,,1,clone,no
+Brazil,3,C3,L,342,3,NA,,1,clone,no
+Brazil,3,C3,L,496,3,NA,,1,clone,no
+Brazil,3,C3,L,497,3,NA,,1,clone,no
+Brazil,1,D1,V,404,3,23.5,,1,clone,no
+Brazil,1,D1,V,405,3,22.6666666666667,,1,clone,no
+Brazil,1,D1,V,406,3,NA,,1,clone,no
+Brazil,1,D1,V,408,3,NA,,1,clone,no
+Brazil,1,D1,V,453,3,35,,1,clone,no
+Brazil,1,D1,V,454,3,10.75,,1,clone,no
+Brazil,1,D1,V,455,3,NA,,1,clone,no
+Brazil,2,D2,V,385,3,12,,1,clone,no
+Brazil,2,D2,V,386,3,8.66666666666667,,1,clone,no
+Brazil,2,D2,V,387,3,8.4,,1,clone,no
+Brazil,2,D2,V,388,3,23.25,,1,clone,no
+Brazil,2,D2,V,389,3,8.75,,1,clone,no
+Brazil,2,D2,V,450,3,16.5,,1,clone,no
+Brazil,3,D3,V,313,3,NA,,1,clone,no
+Brazil,3,D3,V,314,3,NA,,1,clone,no
+Brazil,3,D3,V,315,3,NA,,1,clone,no
+Brazil,3,D3,V,316,3,NA,,1,clone,no
+Brazil,3,D3,V,317,3,NA,,1,clone,no
+Brazil,3,D3,V,318,3,NA,,1,clone,no
+Brazil,1,E1,L,409,3,14,,3,ind,no
+Brazil,1,E1,L,411,3,10.5,,3,ind,no
+Brazil,1,E1,M,451,3,NA,,3,ind,no
+Brazil,1,E1,V,412,3,39.5,,3,ind,no
+Brazil,1,E1,V,445,3,16.6666666666667,,3,ind,no
+Brazil,2,E2,M,396,3,24,,3,ind,no
+Brazil,2,E2,V,393,3,8,,3,ind,no
+Brazil,2,E2,V,394,3,NA,,3,ind,no
+Brazil,3,E3,L,346,3,NA,,3,ind,no
+Brazil,3,E3,M,345,3,NA,,3,ind,no
+Brazil,3,E3,M,347,3,NA,,3,ind,no
+Brazil,3,E3,V,348,3,NA,,3,ind,no
+Brazil,1,F1,M,397,3,42.5,,1,ind,no
+Brazil,1,F1,M,398,3,40,,1,ind,no
+Brazil,1,F1,M,401,3,NA,,1,ind,no
+Brazil,1,F1,M,402,3,47.25,,1,ind,no
+Brazil,2,F2,M,362,3,60,,1,ind,no
+Brazil,2,F2,M,363,3,NA,,1,ind,no
+Brazil,2,F2,M,365,3,18,,1,ind,no
+Brazil,2,F2,M,498,3,NA,,1,ind,no
+Brazil,3,F3,M,301,3,9.5,,1,ind,no
+Brazil,3,F3,M,302,3,12,,1,ind,no
+Brazil,3,F3,M,303,3,22,,1,ind,no
+Brazil,3,F3,M,304,3,12.6666666666667,,1,ind,no
+Brazil,3,F3,M,305,3,24.5,,1,ind,no
+Brazil,3,F3,M,308,3,21,,1,ind,no
+Brazil,1,G1,L,421,3,NA,,1,ind,no
+Brazil,1,G1,L,422,3,20,,1,ind,no
+Brazil,1,G1,L,423,3,NA,,1,ind,no
+Brazil,1,G1,L,424,3,NA,,1,ind,no
+Brazil,1,G1,L,425,3,NA,,1,ind,no
+Brazil,1,G1,L,426,3,40,,1,ind,no
+Brazil,2,G2,L,373,3,30,,1,ind,no
+Brazil,2,G2,L,376,3,28,,1,ind,no
+Brazil,2,G2,L,378,3,NA,,1,ind,no
+Brazil,2,G2,L,447,3,NA,,1,ind,no
+Brazil,2,G2,L,448,3,NA,,1,ind,no
+Brazil,3,G3,L,331,3,NA,,1,ind,no
+Brazil,3,G3,L,332,3,NA,,1,ind,no
+Brazil,3,G3,L,335,3,NA,,1,ind,no
+Brazil,3,G3,L,336,3,NA,,1,ind,no
+Brazil,1,H1,V,433,3,65,,1,ind,no
+Brazil,1,H1,V,434,3,3,,1,ind,no
+Brazil,1,H1,V,435,3,NA,,1,ind,no
+Brazil,1,H1,V,436,3,7.66666666666667,,1,ind,no
+Brazil,1,H1,V,437,3,12.8,,1,ind,no
+Brazil,1,H1,V,452,3,26.6,,1,ind,no
+Brazil,2,H2,V,349,3,NA,,1,ind,no
+Brazil,2,H2,V,350,3,NA,,1,ind,no
+Brazil,2,H2,V,351,3,NA,,1,ind,no
+Brazil,2,H2,V,352,3,12,,1,ind,no
+Brazil,2,H2,V,353,3,NA,,1,ind,no
+Brazil,2,H2,V,354,3,NA,,1,ind,no
+Brazil,3,H3,V,325,3,13.6666666666667,,1,ind,no
+Brazil,3,H3,V,326,3,NA,,1,ind,no
+Brazil,3,H3,V,327,3,NA,,1,ind,no
+Brazil,3,H3,V,329,3,NA,,1,ind,no
+mogi,3,11,arboreum,1001,five,5,,2,ind,no
+mogi,3,11,arboreum,1001,four,0.75,1,2,ind,no
+mogi,3,11,arboreum,1001,one,0,1,2,ind,no
+mogi,3,11,arboreum,1001,three,1.33333333333333,1,2,ind,no
+mogi,3,11,arboreum,1001,two,3.33333333333333,1,2,ind,no
+mogi,2,12,richardifolium,1002,five,NA,,2,ind,no
+mogi,2,12,richardifolium,1002,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,1002,one,23.3333333333333,1,2,ind,no
+mogi,2,12,richardifolium,1002,three,8.33333333333333,0,2,ind,no
+mogi,2,12,richardifolium,1002,two,18.5,1,2,ind,no
+mogi,2,8,arboreum,1003,five,6.75609756097561,,1,clone,no
+mogi,2,8,arboreum,1003,four,0,1,1,clone,no
+mogi,2,8,arboreum,1003,one,0.714285714285714,1,1,clone,no
+mogi,2,8,arboreum,1003,three,6.18181818181818,1,1,clone,no
+mogi,2,8,arboreum,1003,two,0.714285714285714,1,1,clone,no
+mogi,3,8,arboreum,1004,five,NA,,1,ind,no
+mogi,3,8,arboreum,1004,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1004,one,0.5,1,1,ind,no
+mogi,3,8,arboreum,1004,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1004,two,0,0,1,ind,no
+mogi,3,8,arboreum,1005,five,NA,,1,ind,no
+mogi,3,8,arboreum,1005,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1005,one,NA,0,1,ind,no
+mogi,3,8,arboreum,1005,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1005,two,NA,0,1,ind,no
+mogi,2,8,arboreum,1006,five,18.6086956521739,,1,clone,no
+mogi,2,8,arboreum,1006,four,0,1,1,clone,no
+mogi,2,8,arboreum,1006,one,2.66666666666667,1,1,clone,no
+mogi,2,8,arboreum,1006,three,4.77777777777778,1,1,clone,no
+mogi,2,8,arboreum,1006,two,3.83333333333333,1,1,clone,no
+mogi,1,5,arboreum,1007,five,12,,4,ind,no
+mogi,1,5,arboreum,1007,four,8.2,1,4,ind,no
+mogi,1,5,arboreum,1007,one,0,1,4,ind,no
+mogi,1,5,arboreum,1007,three,5.85714285714286,1,4,ind,no
+mogi,1,5,arboreum,1007,two,1.33333333333333,1,4,ind,no
+mogi,1,6,miquelianum,1008,five,NA,,1,ind,no
+mogi,1,6,miquelianum,1008,four,8.81818181818182,0,1,ind,no
+mogi,1,6,miquelianum,1008,one,20,1,1,ind,no
+mogi,1,6,miquelianum,1008,three,9.42857142857143,1,1,ind,no
+mogi,1,6,miquelianum,1008,two,19.5,1,1,ind,no
+mogi,2,8,arboreum,1009,five,NA,,1,clone,no
+mogi,2,8,arboreum,1009,four,NA,0,1,clone,no
+mogi,2,8,arboreum,1009,one,29,1,1,clone,no
+mogi,2,8,arboreum,1009,three,6,0,1,clone,no
+mogi,2,8,arboreum,1009,two,2,1,1,clone,no
+mogi,1,10,richardifolium,1010,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1010,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1010,one,4,1,1,clone,no
+mogi,1,10,richardifolium,1010,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1010,two,8,0,1,clone,no
+mogi,1,7,crassinervium,1011,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1011,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1011,one,16.25,1,1,ind,no
+mogi,1,7,crassinervium,1011,three,1.5,0,1,ind,no
+mogi,1,7,crassinervium,1011,two,21.75,1,1,ind,no
+mogi,3,11,arboreum,1012,five,NA,,2,ind,no
+mogi,3,11,arboreum,1012,four,NA,0,2,ind,no
+mogi,3,11,arboreum,1012,one,0,0,2,ind,no
+mogi,3,11,arboreum,1012,three,NA,0,2,ind,no
+mogi,3,11,arboreum,1012,two,NA,0,2,ind,no
+mogi,2,6,miquelianum,1013,five,2.07692307692308,,1,ind,no
+mogi,2,6,miquelianum,1013,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1013,one,26,1,1,ind,no
+mogi,2,6,miquelianum,1013,three,6.5,1,1,ind,no
+mogi,2,6,miquelianum,1013,two,21.6666666666667,1,1,ind,no
+mogi,3,8,arboreum,1014,five,NA,,1,ind,no
+mogi,3,8,arboreum,1014,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1014,one,NA,0,1,ind,no
+mogi,3,8,arboreum,1014,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1014,two,NA,0,1,ind,no
+mogi,1,10,richardifolium,1015,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1015,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1015,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,1015,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1015,two,NA,0,1,clone,no
+mogi,2,1,crassinervium,1016,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1016,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1016,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1016,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1016,two,NA,0,1,ind,no
+mogi,2,12,richardifolium,1017,five,2.93333333333333,,2,ind,no
+mogi,2,12,richardifolium,1017,four,0,1,2,ind,no
+mogi,2,12,richardifolium,1017,one,0,1,2,ind,no
+mogi,2,12,richardifolium,1017,three,0,1,2,ind,no
+mogi,2,12,richardifolium,1017,two,0,1,2,ind,no
+mogi,1,10,richardifolium,1018,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1018,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1018,one,0.2,1,1,clone,no
+mogi,1,10,richardifolium,1018,three,80.25,0,1,clone,no
+mogi,1,10,richardifolium,1018,two,3.6,1,1,clone,no
+mogi,2,8,arboreum,1019,five,0,,1,clone,no
+mogi,2,8,arboreum,1019,four,0,1,1,clone,no
+mogi,2,8,arboreum,1019,one,1,1,1,clone,no
+mogi,2,8,arboreum,1019,three,0,1,1,clone,no
+mogi,2,8,arboreum,1019,two,1,1,1,clone,no
+mogi,2,8,arboreum,1020,five,2,,1,clone,no
+mogi,2,8,arboreum,1020,four,0,1,1,clone,no
+mogi,2,8,arboreum,1020,one,4,1,1,clone,no
+mogi,2,8,arboreum,1020,three,7,1,1,clone,no
+mogi,2,8,arboreum,1020,two,6.5,1,1,clone,no
+mogi,1,5,crassinervium,1021,five,22.6666666666667,,4,ind,no
+mogi,1,5,crassinervium,1021,four,10.4,1,4,ind,no
+mogi,1,5,crassinervium,1021,one,0,1,4,ind,no
+mogi,1,5,crassinervium,1021,three,0,1,4,ind,no
+mogi,1,5,crassinervium,1021,two,6,1,4,ind,no
+mogi,1,5,richardifolium,1022,five,NA,,4,ind,no
+mogi,1,5,richardifolium,1022,four,NA,0,4,ind,no
+mogi,1,5,richardifolium,1022,one,NA,0,4,ind,no
+mogi,1,5,richardifolium,1022,three,NA,0,4,ind,no
+mogi,1,5,richardifolium,1022,two,NA,0,4,ind,no
+mogi,1,10,richardifolium,1023,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1023,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1023,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,1023,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1023,two,NA,0,1,clone,no
+mogi,1,10,richardifolium,1024,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1024,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1024,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,1024,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1024,two,NA,0,1,clone,no
+mogi,2,8,arboreum,1025,five,NA,,1,clone,no
+mogi,2,8,arboreum,1025,four,NA,0,1,clone,no
+mogi,2,8,arboreum,1025,one,0,1,1,clone,no
+mogi,2,8,arboreum,1025,three,13.5,0,1,clone,no
+mogi,2,8,arboreum,1025,two,0,1,1,clone,no
+mogi,2,12,miquelianum,1026,five,NA,,2,ind,no
+mogi,2,12,miquelianum,1026,four,NA,0,2,ind,no
+mogi,2,12,miquelianum,1026,one,0,1,2,ind,no
+mogi,2,12,miquelianum,1026,three,NA,0,2,ind,no
+mogi,2,12,miquelianum,1026,two,0,0,2,ind,no
+mogi,2,10,richardifolium,1027,five,26.125,,1,clone,no
+mogi,2,10,richardifolium,1027,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1027,one,0,1,1,clone,no
+mogi,2,10,richardifolium,1027,three,3,1,1,clone,no
+mogi,2,10,richardifolium,1027,two,0,1,1,clone,no
+mogi,2,10,richardifolium,1028,five,12,,1,clone,no
+mogi,2,10,richardifolium,1028,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1028,one,7.33333333333333,1,1,clone,no
+mogi,2,10,richardifolium,1028,three,8,1,1,clone,no
+mogi,2,10,richardifolium,1028,two,6,1,1,clone,no
+mogi,2,10,richardifolium,1029,five,NA,,1,clone,no
+mogi,2,10,richardifolium,1029,four,NA,0,1,clone,no
+mogi,2,10,richardifolium,1029,one,36.5,1,1,clone,no
+mogi,2,10,richardifolium,1029,three,55,0,1,clone,no
+mogi,2,10,richardifolium,1029,two,36.5,1,1,clone,no
+mogi,2,10,richardifolium,1030,five,5.8,,1,clone,no
+mogi,2,10,richardifolium,1030,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1030,one,0,1,1,clone,no
+mogi,2,10,richardifolium,1030,three,5.33333333333333,1,1,clone,no
+mogi,2,10,richardifolium,1030,two,0,1,1,clone,no
+mogi,1,10,richardifolium,1031,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1031,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1031,one,1,0,1,clone,no
+mogi,1,10,richardifolium,1031,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1031,two,NA,0,1,clone,no
+mogi,2,11,richardifolium,1033,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1033,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1033,one,43.3333333333333,1,1,ind,no
+mogi,2,11,richardifolium,1033,three,0,0,1,ind,no
+mogi,2,11,richardifolium,1033,two,40,1,1,ind,no
+mogi,2,1,crassinervium,1034,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1034,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1034,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1034,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1034,two,NA,0,1,ind,no
+mogi,2,11,richardifolium,1035,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1035,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1035,one,3,0,1,ind,no
+mogi,2,11,richardifolium,1035,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1035,two,NA,0,1,ind,no
+mogi,1,6,miquelianum,1036,five,NA,,1,ind,no
+mogi,1,6,miquelianum,1036,four,NA,0,1,ind,no
+mogi,1,6,miquelianum,1036,one,0,1,1,ind,no
+mogi,1,6,miquelianum,1036,three,NA,0,1,ind,no
+mogi,1,6,miquelianum,1036,two,0,0,1,ind,no
+mogi,2,10,richardifolium,1037,five,24.1428571428571,,1,clone,no
+mogi,2,10,richardifolium,1037,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1037,one,5,1,1,clone,no
+mogi,2,10,richardifolium,1037,three,10.5,1,1,clone,no
+mogi,2,10,richardifolium,1037,two,14,1,1,clone,no
+mogi,2,10,richardifolium,1038,five,4.8125,,1,clone,no
+mogi,2,10,richardifolium,1038,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1038,one,37.75,1,1,clone,no
+mogi,2,10,richardifolium,1038,three,25.25,1,1,clone,no
+mogi,2,10,richardifolium,1038,two,39.75,1,1,clone,no
+mogi,3,8,arboreum,1039,five,8,,1,ind,no
+mogi,3,8,arboreum,1039,four,0,1,1,ind,no
+mogi,3,8,arboreum,1039,one,0,1,1,ind,no
+mogi,3,8,arboreum,1039,three,1.5,1,1,ind,no
+mogi,3,8,arboreum,1039,two,3,1,1,ind,no
+mogi,1,10,richardifolium,1040,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1040,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1040,one,45,0,1,clone,no
+mogi,1,10,richardifolium,1040,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1040,two,NA,0,1,clone,no
+mogi,2,12,miquelianum,1041,five,NA,,2,ind,no
+mogi,2,12,miquelianum,1041,four,NA,0,2,ind,no
+mogi,2,12,miquelianum,1041,one,7,1,2,ind,no
+mogi,2,12,miquelianum,1041,three,0,0,2,ind,no
+mogi,2,12,miquelianum,1041,two,4.66666666666667,1,2,ind,no
+mogi,2,11,richardifolium,1042,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1042,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1042,one,NA,0,1,ind,no
+mogi,2,11,richardifolium,1042,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1042,two,NA,0,1,ind,no
+mogi,2,11,richardifolium,1043,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1043,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1043,one,0,0,1,ind,no
+mogi,2,11,richardifolium,1043,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1043,two,NA,0,1,ind,no
+mogi,1,5,richardifolium,1044,five,NA,,4,ind,no
+mogi,1,5,richardifolium,1044,four,NA,0,4,ind,no
+mogi,1,5,richardifolium,1044,one,NA,0,4,ind,no
+mogi,1,5,richardifolium,1044,three,NA,0,4,ind,no
+mogi,1,5,richardifolium,1044,two,NA,0,4,ind,no
+mogi,2,10,richardifolium,1045,five,45.125,,1,clone,no
+mogi,2,10,richardifolium,1045,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1045,one,5.33333333333333,1,1,clone,no
+mogi,2,10,richardifolium,1045,three,30.6,1,1,clone,no
+mogi,2,10,richardifolium,1045,two,13.6666666666667,1,1,clone,no
+mogi,2,10,richardifolium,1046,five,2.75,,1,clone,no
+mogi,2,10,richardifolium,1046,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1046,one,8,1,1,clone,no
+mogi,2,10,richardifolium,1046,three,6.6,1,1,clone,no
+mogi,2,10,richardifolium,1046,two,6,1,1,clone,no
+mogi,2,10,richardifolium,1047,five,56.4285714285714,,1,clone,no
+mogi,2,10,richardifolium,1047,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1047,one,13.5,1,1,clone,no
+mogi,2,10,richardifolium,1047,three,15,1,1,clone,no
+mogi,2,10,richardifolium,1047,two,13,1,1,clone,no
+mogi,1,6,miquelianum,1048,five,19.1666666666667,,1,ind,no
+mogi,1,6,miquelianum,1048,four,10.3333333333333,1,1,ind,no
+mogi,1,6,miquelianum,1048,one,40.5,1,1,ind,no
+mogi,1,6,miquelianum,1048,three,23.6,1,1,ind,no
+mogi,1,6,miquelianum,1048,two,42,1,1,ind,no
+mogi,3,8,arboreum,1049,five,23.125,,1,ind,no
+mogi,3,8,arboreum,1049,four,0,1,1,ind,no
+mogi,3,8,arboreum,1049,one,10,1,1,ind,no
+mogi,3,8,arboreum,1049,three,21,1,1,ind,no
+mogi,3,8,arboreum,1049,two,9.5,1,1,ind,no
+mogi,2,9,miquelianum,1050,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1050,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1050,one,0,0,1,clone,no
+mogi,2,9,miquelianum,1050,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1050,two,NA,0,1,clone,no
+mogi,2,12,richardifolium,1051,five,1.83333333333333,,2,ind,no
+mogi,2,12,richardifolium,1051,four,0,1,2,ind,no
+mogi,2,12,richardifolium,1051,one,12.5,1,2,ind,no
+mogi,2,12,richardifolium,1051,three,10.2857142857143,1,2,ind,no
+mogi,2,12,richardifolium,1051,two,12.5,1,2,ind,no
+mogi,2,2,richardifolium,1052,five,NA,,4,ind,no
+mogi,2,2,richardifolium,1052,four,NA,0,4,ind,no
+mogi,2,2,richardifolium,1052,one,8,0,4,ind,no
+mogi,2,2,richardifolium,1052,three,NA,0,4,ind,no
+mogi,2,2,richardifolium,1052,two,NA,0,4,ind,no
+mogi,2,10,richardifolium,1053,five,NA,,1,clone,no
+mogi,2,10,richardifolium,1053,four,NA,0,1,clone,no
+mogi,2,10,richardifolium,1053,one,29.5,0,1,clone,no
+mogi,2,10,richardifolium,1053,three,NA,0,1,clone,no
+mogi,2,10,richardifolium,1053,two,NA,0,1,clone,no
+mogi,2,12,richardifolium,1054,five,3,,2,ind,no
+mogi,2,12,richardifolium,1054,four,0,1,2,ind,no
+mogi,2,12,richardifolium,1054,one,12,1,2,ind,no
+mogi,2,12,richardifolium,1054,three,0.333333333333333,1,2,ind,no
+mogi,2,12,richardifolium,1054,two,0,1,2,ind,no
+mogi,2,9,miquelianum,1055,five,1.66666666666667,,1,clone,no
+mogi,2,9,miquelianum,1055,four,0,1,1,clone,no
+mogi,2,9,miquelianum,1055,one,1.33333333333333,1,1,clone,no
+mogi,2,9,miquelianum,1055,three,6.25,1,1,clone,no
+mogi,2,9,miquelianum,1055,two,10,1,1,clone,no
+mogi,2,6,miquelianum,1056,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1056,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1056,one,1.5,0,1,ind,no
+mogi,2,6,miquelianum,1056,three,NA,0,1,ind,no
+mogi,2,6,miquelianum,1056,two,NA,0,1,ind,no
+mogi,1,5,arboreum,1057,five,0.35,,4,ind,no
+mogi,1,5,arboreum,1057,four,2.83333333333333,1,4,ind,no
+mogi,1,5,arboreum,1057,one,0,1,4,ind,no
+mogi,1,5,arboreum,1057,three,1.25,1,4,ind,no
+mogi,1,5,arboreum,1057,two,1.75,1,4,ind,no
+mogi,1,7,crassinervium,1058,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1058,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1058,one,4,1,1,ind,no
+mogi,1,7,crassinervium,1058,three,60,0,1,ind,no
+mogi,1,7,crassinervium,1058,two,0,1,1,ind,no
+mogi,2,10,richardifolium,1059,five,NA,,1,clone,no
+mogi,2,10,richardifolium,1059,four,NA,0,1,clone,no
+mogi,2,10,richardifolium,1059,one,NA,0,1,clone,no
+mogi,2,10,richardifolium,1059,three,NA,0,1,clone,no
+mogi,2,10,richardifolium,1059,two,NA,0,1,clone,no
+mogi,2,11,richardifolium,1060,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1060,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1060,one,NA,0,1,ind,no
+mogi,2,11,richardifolium,1060,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1060,two,NA,0,1,ind,no
+mogi,2,11,richardifolium,1061,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1061,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1061,one,0,0,1,ind,no
+mogi,2,11,richardifolium,1061,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1061,two,NA,0,1,ind,no
+mogi,2,2,miquelianum,1062,five,0,,4,ind,no
+mogi,2,2,miquelianum,1062,four,0,1,4,ind,no
+mogi,2,2,miquelianum,1062,one,25,1,4,ind,no
+mogi,2,2,miquelianum,1062,three,3.8,1,4,ind,no
+mogi,2,2,miquelianum,1062,two,27,1,4,ind,no
+mogi,3,11,richardifolium,1063,five,NA,,2,ind,no
+mogi,3,11,richardifolium,1063,four,NA,0,2,ind,no
+mogi,3,11,richardifolium,1063,one,NA,0,2,ind,no
+mogi,3,11,richardifolium,1063,three,NA,0,2,ind,no
+mogi,3,11,richardifolium,1063,two,NA,0,2,ind,no
+mogi,2,12,richardifolium,1065,five,NA,,2,ind,no
+mogi,2,12,richardifolium,1065,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,1065,one,32,1,2,ind,no
+mogi,2,12,richardifolium,1065,three,2,0,2,ind,no
+mogi,2,12,richardifolium,1065,two,0,1,2,ind,no
+mogi,1,10,richardifolium,1066,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1066,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1066,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,1066,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1066,two,NA,0,1,clone,no
+mogi,3,4,arboreum,1067,five,3.375,,1,clone,no
+mogi,3,4,arboreum,1067,four,0,1,1,clone,no
+mogi,3,4,arboreum,1067,one,2,1,1,clone,no
+mogi,3,4,arboreum,1067,three,15.2,1,1,clone,no
+mogi,3,4,arboreum,1067,two,9,1,1,clone,no
+mogi,1,4,miquelianum,1068,five,0,,2,ind,no
+mogi,1,4,miquelianum,1068,four,0,1,2,ind,no
+mogi,1,4,miquelianum,1068,one,0,1,2,ind,no
+mogi,1,4,miquelianum,1068,three,9.85714285714286,1,2,ind,no
+mogi,1,4,miquelianum,1068,two,20.6666666666667,1,2,ind,no
+mogi,1,5,crassinervium,1069,five,NA,,4,ind,no
+mogi,1,5,crassinervium,1069,four,NA,0,4,ind,no
+mogi,1,5,crassinervium,1069,one,NA,0,4,ind,no
+mogi,1,5,crassinervium,1069,three,NA,0,4,ind,no
+mogi,1,5,crassinervium,1069,two,NA,0,4,ind,no
+mogi,2,12,richardifolium,1070,five,32.3333333333333,,2,ind,no
+mogi,2,12,richardifolium,1070,four,0,1,2,ind,no
+mogi,2,12,richardifolium,1070,one,38.3333333333333,1,2,ind,no
+mogi,2,12,richardifolium,1070,three,9,1,2,ind,no
+mogi,2,12,richardifolium,1070,two,38,1,2,ind,no
+mogi,1,10,richardifolium,1071,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1071,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1071,one,5.5,1,1,clone,no
+mogi,1,10,richardifolium,1071,three,2,0,1,clone,no
+mogi,1,10,richardifolium,1071,two,3.33333333333333,1,1,clone,no
+mogi,3,11,arboreum,1072,five,0.333333333333333,,2,ind,no
+mogi,3,11,arboreum,1072,four,1,1,2,ind,no
+mogi,3,11,arboreum,1072,one,0.666666666666667,1,2,ind,no
+mogi,3,11,arboreum,1072,three,3.5,1,2,ind,no
+mogi,3,11,arboreum,1072,two,1,1,2,ind,no
+mogi,1,5,arboreum,1073,five,2,,4,ind,no
+mogi,1,5,arboreum,1073,four,3.66666666666667,1,4,ind,no
+mogi,1,5,arboreum,1073,one,0,1,4,ind,no
+mogi,1,5,arboreum,1073,three,7.66666666666667,1,4,ind,no
+mogi,1,5,arboreum,1073,two,4,1,4,ind,no
+mogi,2,11,richardifolium,1074,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1074,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1074,one,5,0,1,ind,no
+mogi,2,11,richardifolium,1074,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1074,two,NA,0,1,ind,no
+mogi,2,2,miquelianum,1075,five,1.2,,4,ind,no
+mogi,2,2,miquelianum,1075,four,0,1,4,ind,no
+mogi,2,2,miquelianum,1075,one,6,1,4,ind,no
+mogi,2,2,miquelianum,1075,three,0,1,4,ind,no
+mogi,2,2,miquelianum,1075,two,16,1,4,ind,no
+mogi,2,8,arboreum,1076,five,NA,,1,clone,no
+mogi,2,8,arboreum,1076,four,NA,0,1,clone,no
+mogi,2,8,arboreum,1076,one,2,0,1,clone,no
+mogi,2,8,arboreum,1076,three,NA,0,1,clone,no
+mogi,2,8,arboreum,1076,two,NA,0,1,clone,no
+mogi,2,12,richardifolium,1077,five,NA,,2,ind,no
+mogi,2,12,richardifolium,1077,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,1077,one,NA,0,2,ind,no
+mogi,2,12,richardifolium,1077,three,NA,0,2,ind,no
+mogi,2,12,richardifolium,1077,two,NA,0,2,ind,no
+mogi,2,10,richardifolium,1078,five,14.8666666666667,,1,clone,no
+mogi,2,10,richardifolium,1078,four,0,1,1,clone,no
+mogi,2,10,richardifolium,1078,one,0,1,1,clone,no
+mogi,2,10,richardifolium,1078,three,2,1,1,clone,no
+mogi,2,10,richardifolium,1078,two,8,1,1,clone,no
+mogi,2,1,crassinervium,1079,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1079,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1079,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1079,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1079,two,NA,0,1,ind,no
+mogi,2,2,crassinervium,1080,five,5.5,,4,ind,no
+mogi,2,2,crassinervium,1080,four,0,1,4,ind,no
+mogi,2,2,crassinervium,1080,one,3,1,4,ind,no
+mogi,2,2,crassinervium,1080,three,0,1,4,ind,no
+mogi,2,2,crassinervium,1080,two,0,1,4,ind,no
+mogi,3,8,arboreum,1081,five,NA,,1,ind,no
+mogi,3,8,arboreum,1081,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1081,one,0.666666666666667,0,1,ind,no
+mogi,3,8,arboreum,1081,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1081,two,NA,0,1,ind,no
+mogi,2,2,richardifolium,1082,five,NA,,4,ind,no
+mogi,2,2,richardifolium,1082,four,NA,0,4,ind,no
+mogi,2,2,richardifolium,1082,one,1,1,4,ind,no
+mogi,2,2,richardifolium,1082,three,NA,0,4,ind,no
+mogi,2,2,richardifolium,1082,two,1.6,0,4,ind,no
+mogi,1,5,richardifolium,1083,five,NA,,4,ind,no
+mogi,1,5,richardifolium,1083,four,23.2,0,4,ind,no
+mogi,1,5,richardifolium,1083,one,0,1,4,ind,no
+mogi,1,5,richardifolium,1083,three,26.6666666666667,1,4,ind,no
+mogi,1,5,richardifolium,1083,two,42.5,1,4,ind,no
+mogi,2,12,miquelianum,1084,five,NA,,2,ind,no
+mogi,2,12,miquelianum,1084,four,NA,0,2,ind,no
+mogi,2,12,miquelianum,1084,one,0,1,2,ind,no
+mogi,2,12,miquelianum,1084,three,1,0,2,ind,no
+mogi,2,12,miquelianum,1084,two,0,1,2,ind,no
+mogi,1,7,crassinervium,1085,five,11.5,,1,ind,no
+mogi,1,7,crassinervium,1085,four,0,1,1,ind,no
+mogi,1,7,crassinervium,1085,one,26,1,1,ind,no
+mogi,1,7,crassinervium,1085,three,0.5,1,1,ind,no
+mogi,1,7,crassinervium,1085,two,0,1,1,ind,no
+mogi,2,8,arboreum,1086,five,1.71428571428571,,1,clone,no
+mogi,2,8,arboreum,1086,four,0,1,1,clone,no
+mogi,2,8,arboreum,1086,one,3.6,1,1,clone,no
+mogi,2,8,arboreum,1086,three,6.125,1,1,clone,no
+mogi,2,8,arboreum,1086,two,13.6,1,1,clone,no
+mogi,1,7,crassinervium,1087,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1087,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1087,one,1.25,1,1,ind,no
+mogi,1,7,crassinervium,1087,three,43,0,1,ind,no
+mogi,1,7,crassinervium,1087,two,33.3333333333333,1,1,ind,no
+mogi,2,12,richardifolium,1088,five,NA,,2,ind,no
+mogi,2,12,richardifolium,1088,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,1088,one,32.3333333333333,1,2,ind,no
+mogi,2,12,richardifolium,1088,three,8.66666666666667,0,2,ind,no
+mogi,2,12,richardifolium,1088,two,8.33333333333333,1,2,ind,no
+mogi,1,10,richardifolium,1090,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1090,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1090,one,22.5,1,1,clone,no
+mogi,1,10,richardifolium,1090,three,94,0,1,clone,no
+mogi,1,10,richardifolium,1090,two,0,1,1,clone,no
+mogi,2,8,arboreum,1091,five,2,,1,clone,no
+mogi,2,8,arboreum,1091,four,0,1,1,clone,no
+mogi,2,8,arboreum,1091,one,20,1,1,clone,no
+mogi,2,8,arboreum,1091,three,11.6666666666667,1,1,clone,no
+mogi,2,8,arboreum,1091,two,16.6666666666667,1,1,clone,no
+mogi,3,4,arboreum,1092,five,NA,,1,clone,no
+mogi,3,4,arboreum,1092,four,NA,0,1,clone,no
+mogi,3,4,arboreum,1092,one,7.25,0,1,clone,no
+mogi,3,4,arboreum,1092,three,NA,0,1,clone,no
+mogi,3,4,arboreum,1092,two,NA,0,1,clone,no
+mogi,2,9,miquelianum,1093,five,1,,1,clone,no
+mogi,2,9,miquelianum,1093,four,0,1,1,clone,no
+mogi,2,9,miquelianum,1093,one,12.75,1,1,clone,no
+mogi,2,9,miquelianum,1093,three,30.25,1,1,clone,no
+mogi,2,9,miquelianum,1093,two,13,1,1,clone,no
+mogi,3,8,arboreum,1094,five,NA,,1,ind,no
+mogi,3,8,arboreum,1094,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1094,one,26,0,1,ind,no
+mogi,3,8,arboreum,1094,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1094,two,NA,0,1,ind,no
+mogi,3,8,arboreum,1095,five,NA,,1,ind,no
+mogi,3,8,arboreum,1095,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1095,one,0,1,1,ind,no
+mogi,3,8,arboreum,1095,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1095,two,3,0,1,ind,no
+mogi,2,9,miquelianum,1096,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1096,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1096,one,NA,0,1,clone,no
+mogi,2,9,miquelianum,1096,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1096,two,NA,0,1,clone,no
+mogi,2,6,miquelianum,1097,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1097,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1097,one,0,1,1,ind,no
+mogi,2,6,miquelianum,1097,three,5.25,0,1,ind,no
+mogi,2,6,miquelianum,1097,two,12.1428571428571,1,1,ind,no
+mogi,2,9,miquelianum,1098,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1098,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1098,one,0,1,1,clone,no
+mogi,2,9,miquelianum,1098,three,9.28571428571429,0,1,clone,no
+mogi,2,9,miquelianum,1098,two,22.2,1,1,clone,no
+mogi,2,12,richardifolium,1099,five,NA,,2,ind,no
+mogi,2,12,richardifolium,1099,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,1099,one,3,1,2,ind,no
+mogi,2,12,richardifolium,1099,three,6.66666666666667,0,2,ind,no
+mogi,2,12,richardifolium,1099,two,6.33333333333333,1,2,ind,no
+mogi,2,9,miquelianum,1100,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1100,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1100,one,NA,0,1,clone,no
+mogi,2,9,miquelianum,1100,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1100,two,NA,0,1,clone,no
+mogi,3,9,crassinervium,1201,five,28,,4,clone,no
+mogi,3,9,crassinervium,1201,four,26.5454545454545,1,4,clone,no
+mogi,3,9,crassinervium,1201,one,6.75,1,4,clone,no
+mogi,3,9,crassinervium,1201,three,37.1111111111111,1,4,clone,no
+mogi,3,9,crassinervium,1201,two,4.66666666666667,1,4,clone,no
+mogi,3,9,crassinervium,1202,five,16.1666666666667,,4,clone,no
+mogi,3,9,crassinervium,1202,four,1.33333333333333,1,4,clone,no
+mogi,3,9,crassinervium,1202,one,3.5,1,4,clone,no
+mogi,3,9,crassinervium,1202,three,2.14285714285714,1,4,clone,no
+mogi,3,9,crassinervium,1202,two,2.5,1,4,clone,no
+mogi,3,7,crassinervium,1203,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1203,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1203,one,63.6666666666667,1,1,clone,no
+mogi,3,7,crassinervium,1203,three,8,0,1,clone,no
+mogi,3,7,crassinervium,1203,two,81.5,1,1,clone,no
+mogi,3,1,crassinervium,1204,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1204,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1204,one,NA,0,1,ind,no
+mogi,3,1,crassinervium,1204,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1204,two,NA,0,1,ind,no
+mogi,3,6,arboreum,1205,five,9.3,,2,clone,no
+mogi,3,6,arboreum,1205,four,0,1,2,clone,no
+mogi,3,6,arboreum,1205,one,6.75,1,2,clone,no
+mogi,3,6,arboreum,1205,three,6.2,1,2,clone,no
+mogi,3,6,arboreum,1205,two,2.33333333333333,1,2,clone,no
+mogi,3,1,crassinervium,1206,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1206,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1206,one,60,1,1,ind,no
+mogi,3,1,crassinervium,1206,three,0,0,1,ind,no
+mogi,3,1,crassinervium,1206,two,80,1,1,ind,no
+mogi,3,9,miquelianum,1207,five,12,,4,clone,no
+mogi,3,9,miquelianum,1207,four,0,1,4,clone,no
+mogi,3,9,miquelianum,1207,one,40,1,4,clone,no
+mogi,3,9,miquelianum,1207,three,20.8333333333333,1,4,clone,no
+mogi,3,9,miquelianum,1207,two,36,1,4,clone,no
+mogi,3,2,miquelianum,1208,five,3.71428571428571,,4,ind,no
+mogi,3,2,miquelianum,1208,four,0,1,4,ind,no
+mogi,3,2,miquelianum,1208,one,18,1,4,ind,no
+mogi,3,2,miquelianum,1208,three,4.66666666666667,1,4,ind,no
+mogi,3,2,miquelianum,1208,two,8,1,4,ind,no
+mogi,3,6,arboreum,1209,five,5.08333333333333,,2,clone,no
+mogi,3,6,arboreum,1209,four,0,1,2,clone,no
+mogi,3,6,arboreum,1209,one,1.4,1,2,clone,no
+mogi,3,6,arboreum,1209,three,5,1,2,clone,no
+mogi,3,6,arboreum,1209,two,7.25,1,2,clone,no
+mogi,3,1,crassinervium,1210,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1210,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1210,one,60,1,1,ind,no
+mogi,3,1,crassinervium,1210,three,10,0,1,ind,no
+mogi,3,1,crassinervium,1210,two,70,1,1,ind,no
+mogi,3,1,crassinervium,1211,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1211,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1211,one,3,1,1,ind,no
+mogi,3,1,crassinervium,1211,three,6,0,1,ind,no
+mogi,3,1,crassinervium,1211,two,2,1,1,ind,no
+mogi,2,11,richardifolium,1212,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1212,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1212,one,0,0,1,ind,no
+mogi,2,11,richardifolium,1212,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1212,two,NA,0,1,ind,no
+mogi,3,12,richardifolium,1214,five,NA,,1,ind,no
+mogi,3,12,richardifolium,1214,four,11,0,1,ind,no
+mogi,3,12,richardifolium,1214,one,44,1,1,ind,no
+mogi,3,12,richardifolium,1214,three,20,1,1,ind,no
+mogi,3,12,richardifolium,1214,two,43.5,1,1,ind,no
+mogi,3,6,arboreum,1216,five,NA,,2,clone,no
+mogi,3,6,arboreum,1216,four,NA,0,2,clone,no
+mogi,3,6,arboreum,1216,one,NA,0,2,clone,no
+mogi,3,6,arboreum,1216,three,NA,0,2,clone,no
+mogi,3,6,arboreum,1216,two,NA,0,2,clone,no
+mogi,3,3,miquelianum,1217,five,1.4,,1,clone,no
+mogi,3,3,miquelianum,1217,four,0,1,1,clone,no
+mogi,3,3,miquelianum,1217,one,65,1,1,clone,no
+mogi,3,3,miquelianum,1217,three,32,1,1,clone,no
+mogi,3,3,miquelianum,1217,two,80,1,1,clone,no
+mogi,3,3,miquelianum,1218,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1218,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1218,one,NA,0,1,clone,no
+mogi,3,3,miquelianum,1218,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,1218,two,NA,0,1,clone,no
+mogi,3,3,miquelianum,1219,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1219,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1219,one,NA,0,1,clone,no
+mogi,3,3,miquelianum,1219,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,1219,two,NA,0,1,clone,no
+mogi,3,6,richardifolium,1220,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1220,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1220,one,NA,0,2,clone,no
+mogi,3,6,richardifolium,1220,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,1220,two,NA,0,2,clone,no
+mogi,3,6,richardifolium,1221,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1221,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1221,one,NA,0,2,clone,no
+mogi,3,6,richardifolium,1221,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,1221,two,NA,0,2,clone,no
+mogi,3,3,miquelianum,1222,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1222,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1222,one,0,0,1,clone,no
+mogi,3,3,miquelianum,1222,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,1222,two,NA,0,1,clone,no
+mogi,2,11,richardifolium,1223,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1223,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1223,one,7,0,1,ind,no
+mogi,2,11,richardifolium,1223,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1223,two,NA,0,1,ind,no
+mogi,3,6,richardifolium,1224,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1224,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1224,one,NA,0,2,clone,no
+mogi,3,6,richardifolium,1224,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,1224,two,NA,0,2,clone,no
+mogi,3,3,miquelianum,1226,five,1.9375,,1,clone,no
+mogi,3,3,miquelianum,1226,four,0,1,1,clone,no
+mogi,3,3,miquelianum,1226,one,0,1,1,clone,no
+mogi,3,3,miquelianum,1226,three,0,1,1,clone,no
+mogi,3,3,miquelianum,1226,two,0,1,1,clone,no
+mogi,3,4,arboreum,1227,five,NA,,1,clone,no
+mogi,3,4,arboreum,1227,four,NA,0,1,clone,no
+mogi,3,4,arboreum,1227,one,6.66666666666667,0,1,clone,no
+mogi,3,4,arboreum,1227,three,NA,0,1,clone,no
+mogi,3,4,arboreum,1227,two,NA,0,1,clone,no
+mogi,3,11,arboreum,1228,five,NA,,2,ind,no
+mogi,3,11,arboreum,1228,four,2.63636363636364,0,2,ind,no
+mogi,3,11,arboreum,1228,one,1.8,1,2,ind,no
+mogi,3,11,arboreum,1228,three,3.28571428571429,1,2,ind,no
+mogi,3,11,arboreum,1228,two,1.4,1,2,ind,no
+mogi,2,11,richardifolium,1229,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1229,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1229,one,0,0,1,ind,no
+mogi,2,11,richardifolium,1229,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1229,two,NA,0,1,ind,no
+mogi,3,6,richardifolium,1230,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1230,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1230,one,8,1,2,clone,no
+mogi,3,6,richardifolium,1230,three,7.5,0,2,clone,no
+mogi,3,6,richardifolium,1230,two,12,1,2,clone,no
+mogi,3,3,miquelianum,1231,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1231,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1231,one,23.6666666666667,1,1,clone,no
+mogi,3,3,miquelianum,1231,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,1231,two,6,0,1,clone,no
+mogi,3,1,crassinervium,1232,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1232,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1232,one,16,0,1,ind,no
+mogi,3,1,crassinervium,1232,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1232,two,NA,0,1,ind,no
+mogi,3,4,arboreum,1233,five,1.125,,1,clone,no
+mogi,3,4,arboreum,1233,four,0,1,1,clone,no
+mogi,3,4,arboreum,1233,one,0,1,1,clone,no
+mogi,3,4,arboreum,1233,three,1.66666666666667,1,1,clone,no
+mogi,3,4,arboreum,1233,two,0.75,1,1,clone,no
+mogi,3,2,arboreum,1234,five,NA,,4,ind,no
+mogi,3,2,arboreum,1234,four,NA,0,4,ind,no
+mogi,3,2,arboreum,1234,one,3.5,0,4,ind,no
+mogi,3,2,arboreum,1234,three,NA,0,4,ind,no
+mogi,3,2,arboreum,1234,two,NA,0,4,ind,no
+mogi,3,1,crassinervium,1235,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1235,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1235,one,7,1,1,ind,no
+mogi,3,1,crassinervium,1235,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1235,two,54,0,1,ind,no
+mogi,3,12,richardifolium,1236,five,NA,,1,ind,no
+mogi,3,12,richardifolium,1236,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,1236,one,21,0,1,ind,no
+mogi,3,12,richardifolium,1236,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,1236,two,NA,0,1,ind,no
+mogi,3,4,arboreum,1237,five,NA,,1,clone,no
+mogi,3,4,arboreum,1237,four,NA,0,1,clone,no
+mogi,3,4,arboreum,1237,one,2,1,1,clone,no
+mogi,3,4,arboreum,1237,three,NA,0,1,clone,no
+mogi,3,4,arboreum,1237,two,14,0,1,clone,no
+mogi,3,5,miquelianum,1238,five,NA,,1,ind,no
+mogi,3,5,miquelianum,1238,four,NA,0,1,ind,no
+mogi,3,5,miquelianum,1238,one,47.8,1,1,ind,no
+mogi,3,5,miquelianum,1238,three,25.2,0,1,ind,no
+mogi,3,5,miquelianum,1238,two,30.1666666666667,1,1,ind,no
+mogi,3,7,crassinervium,1239,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1239,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1239,one,0,1,1,clone,no
+mogi,3,7,crassinervium,1239,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1239,two,0,0,1,clone,no
+mogi,3,2,miquelianum,1240,five,NA,,4,ind,no
+mogi,3,2,miquelianum,1240,four,NA,0,4,ind,no
+mogi,3,2,miquelianum,1240,one,27.8,0,4,ind,no
+mogi,3,2,miquelianum,1240,three,NA,0,4,ind,no
+mogi,3,2,miquelianum,1240,two,NA,0,4,ind,no
+mogi,3,7,crassinervium,1241,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1241,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1241,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1241,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1241,two,NA,0,1,clone,no
+mogi,3,1,crassinervium,1242,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1242,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1242,one,0,1,1,ind,no
+mogi,3,1,crassinervium,1242,three,47.3333333333333,0,1,ind,no
+mogi,3,1,crassinervium,1242,two,0,1,1,ind,no
+mogi,3,6,richardifolium,1243,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1243,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1243,one,22.6666666666667,1,2,clone,no
+mogi,3,6,richardifolium,1243,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,1243,two,28.5,0,2,clone,no
+mogi,3,7,crassinervium,1244,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1244,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1244,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1244,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1244,two,NA,0,1,clone,no
+mogi,3,1,crassinervium,1245,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1245,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1245,one,25,0,1,ind,no
+mogi,3,1,crassinervium,1245,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1245,two,NA,0,1,ind,no
+mogi,3,4,arboreum,1246,five,NA,,1,clone,no
+mogi,3,4,arboreum,1246,four,NA,0,1,clone,no
+mogi,3,4,arboreum,1246,one,NA,0,1,clone,no
+mogi,3,4,arboreum,1246,three,NA,0,1,clone,no
+mogi,3,4,arboreum,1246,two,NA,0,1,clone,no
+mogi,3,9,crassinervium,1247,five,NA,,4,clone,no
+mogi,3,9,crassinervium,1247,four,0,0,4,clone,no
+mogi,3,9,crassinervium,1247,one,1.71428571428571,1,4,clone,no
+mogi,3,9,crassinervium,1247,three,16.3333333333333,1,4,clone,no
+mogi,3,9,crassinervium,1247,two,1.5,1,4,clone,no
+mogi,3,6,richardifolium,1248,five,NA,,2,clone,no
+mogi,3,6,richardifolium,1248,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,1248,one,NA,0,2,clone,no
+mogi,3,6,richardifolium,1248,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,1248,two,NA,0,2,clone,no
+mogi,1,7,crassinervium,1249,five,5.833333333,,1,ind,no
+mogi,1,7,crassinervium,1249,four,0,1,1,ind,no
+mogi,1,7,crassinervium,1249,one,5.25,1,1,ind,no
+mogi,1,7,crassinervium,1249,three,8.5,1,1,ind,no
+mogi,1,7,crassinervium,1249,two,7.66666666666667,1,1,ind,no
+mogi,3,7,crassinervium,1250,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1250,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1250,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1250,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1250,two,NA,0,1,clone,no
+mogi,3,12,richardifolium,1251,five,NA,,1,ind,no
+mogi,3,12,richardifolium,1251,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,1251,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,1251,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,1251,two,NA,0,1,ind,no
+mogi,3,6,arboreum,1252,five,2.2,,2,clone,no
+mogi,3,6,arboreum,1252,four,0,1,2,clone,no
+mogi,3,6,arboreum,1252,one,6.33333333333333,1,2,clone,no
+mogi,3,6,arboreum,1252,three,0.5,1,2,clone,no
+mogi,3,6,arboreum,1252,two,7,1,2,clone,no
+mogi,3,3,miquelianum,1253,five,0,,1,clone,no
+mogi,3,3,miquelianum,1253,four,0,1,1,clone,no
+mogi,3,3,miquelianum,1253,one,6,1,1,clone,no
+mogi,3,3,miquelianum,1253,three,23,1,1,clone,no
+mogi,3,3,miquelianum,1253,two,12,1,1,clone,no
+mogi,3,7,crassinervium,1254,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1254,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1254,one,1.5,1,1,clone,no
+mogi,3,7,crassinervium,1254,three,0,0,1,clone,no
+mogi,3,7,crassinervium,1254,two,11,1,1,clone,no
+mogi,3,3,miquelianum,1255,five,2.33333333333333,,1,clone,no
+mogi,3,3,miquelianum,1255,four,0,1,1,clone,no
+mogi,3,3,miquelianum,1255,one,39.4,1,1,clone,no
+mogi,3,3,miquelianum,1255,three,2.66666666666667,1,1,clone,no
+mogi,3,3,miquelianum,1255,two,33,1,1,clone,no
+mogi,3,3,miquelianum,1256,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1256,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1256,one,60,1,1,clone,no
+mogi,3,3,miquelianum,1256,three,56,0,1,clone,no
+mogi,3,3,miquelianum,1256,two,60,1,1,clone,no
+mogi,3,9,miquelianum,1257,five,0.5,,4,clone,no
+mogi,3,9,miquelianum,1257,four,0,1,4,clone,no
+mogi,3,9,miquelianum,1257,one,30.5,1,4,clone,no
+mogi,3,9,miquelianum,1257,three,9.42857142857143,1,4,clone,no
+mogi,3,9,miquelianum,1257,two,58,1,4,clone,no
+mogi,3,9,miquelianum,1258,five,1,,4,clone,no
+mogi,3,9,miquelianum,1258,four,0,1,4,clone,no
+mogi,3,9,miquelianum,1258,one,27.5,1,4,clone,no
+mogi,3,9,miquelianum,1258,three,0,1,4,clone,no
+mogi,3,9,miquelianum,1258,two,0,1,4,clone,no
+mogi,1,7,crassinervium,1259,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1259,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1259,one,40,1,1,ind,no
+mogi,1,7,crassinervium,1259,three,0,0,1,ind,no
+mogi,1,7,crassinervium,1259,two,40.5,1,1,ind,no
+mogi,3,7,crassinervium,1260,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1260,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1260,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1260,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1260,two,NA,0,1,clone,no
+mogi,3,4,arboreum,1261,five,1.66666666666667,,1,clone,no
+mogi,3,4,arboreum,1261,four,0,1,1,clone,no
+mogi,3,4,arboreum,1261,one,3,1,1,clone,no
+mogi,3,4,arboreum,1261,three,10,1,1,clone,no
+mogi,3,4,arboreum,1261,two,6,1,1,clone,no
+mogi,3,11,arboreum,1262,five,NA,,2,ind,no
+mogi,3,11,arboreum,1262,four,NA,0,2,ind,no
+mogi,3,11,arboreum,1262,one,5.33333333333333,1,2,ind,no
+mogi,3,11,arboreum,1262,three,NA,0,2,ind,no
+mogi,3,11,arboreum,1262,two,4.5,0,2,ind,no
+mogi,3,6,arboreum,1263,five,1.66666666666667,,2,clone,no
+mogi,3,6,arboreum,1263,four,0,1,2,clone,no
+mogi,3,6,arboreum,1263,one,2,1,2,clone,no
+mogi,3,6,arboreum,1263,three,2.66666666666667,1,2,clone,no
+mogi,3,6,arboreum,1263,two,3,1,2,clone,no
+mogi,3,7,crassinervium,1264,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1264,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1264,one,75,0,1,clone,no
+mogi,3,7,crassinervium,1264,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1264,two,NA,0,1,clone,no
+mogi,3,12,richardifolium,1265,five,20,,1,ind,no
+mogi,3,12,richardifolium,1265,four,0,1,1,ind,no
+mogi,3,12,richardifolium,1265,one,26.5,1,1,ind,no
+mogi,3,12,richardifolium,1265,three,32.5,1,1,ind,no
+mogi,3,12,richardifolium,1265,two,0,1,1,ind,no
+mogi,3,3,miquelianum,1267,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1267,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1267,one,30,0,1,clone,no
+mogi,3,3,miquelianum,1267,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,1267,two,NA,0,1,clone,no
+mogi,1,7,crassinervium,1268,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1268,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1268,one,18.6666666666667,1,1,ind,no
+mogi,1,7,crassinervium,1268,three,NA,0,1,ind,no
+mogi,1,7,crassinervium,1268,two,29,0,1,ind,no
+mogi,3,7,crassinervium,1269,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1269,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1269,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1269,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1269,two,NA,0,1,clone,no
+mogi,3,3,miquelianum,1270,five,NA,,1,clone,no
+mogi,3,3,miquelianum,1270,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,1270,one,30,1,1,clone,no
+mogi,3,3,miquelianum,1270,three,23.6666666666667,0,1,clone,no
+mogi,3,3,miquelianum,1270,two,31.5,1,1,clone,no
+mogi,3,4,arboreum,1271,five,4,,1,clone,no
+mogi,3,4,arboreum,1271,four,0,1,1,clone,no
+mogi,3,4,arboreum,1271,one,7.33333333333333,1,1,clone,no
+mogi,3,4,arboreum,1271,three,2,1,1,clone,no
+mogi,3,4,arboreum,1271,two,1,1,1,clone,no
+mogi,3,11,arboreum,1272,five,NA,,2,ind,no
+mogi,3,11,arboreum,1272,four,NA,0,2,ind,no
+mogi,3,11,arboreum,1272,one,1.5,0,2,ind,no
+mogi,3,11,arboreum,1272,three,NA,0,2,ind,no
+mogi,3,11,arboreum,1272,two,NA,0,2,ind,no
+mogi,3,4,arboreum,1273,five,0.6,,1,clone,no
+mogi,3,4,arboreum,1273,four,0,1,1,clone,no
+mogi,3,4,arboreum,1273,one,0,1,1,clone,no
+mogi,3,4,arboreum,1273,three,3.5,1,1,clone,no
+mogi,3,4,arboreum,1273,two,1,1,1,clone,no
+mogi,3,7,crassinervium,1274,five,18.3333333333333,,1,clone,no
+mogi,3,7,crassinervium,1274,four,0,1,1,clone,no
+mogi,3,7,crassinervium,1274,one,12.8,1,1,clone,no
+mogi,3,7,crassinervium,1274,three,4.75,1,1,clone,no
+mogi,3,7,crassinervium,1274,two,14,1,1,clone,no
+mogi,3,7,crassinervium,1275,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1275,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1275,one,NA,0,1,clone,no
+mogi,3,7,crassinervium,1275,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1275,two,NA,0,1,clone,no
+mogi,3,1,crassinervium,1276,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1276,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1276,one,31.5,0,1,ind,no
+mogi,3,1,crassinervium,1276,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1276,two,NA,0,1,ind,no
+mogi,3,4,arboreum,1277,five,19.3684210526316,,1,clone,no
+mogi,3,4,arboreum,1277,four,0,1,1,clone,no
+mogi,3,4,arboreum,1277,one,35.2,1,1,clone,no
+mogi,3,4,arboreum,1277,three,14,1,1,clone,no
+mogi,3,4,arboreum,1277,two,32,1,1,clone,no
+mogi,3,1,crassinervium,1278,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1278,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1278,one,NA,0,1,ind,no
+mogi,3,1,crassinervium,1278,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1278,two,NA,0,1,ind,no
+mogi,3,6,arboreum,1279,five,4.61538461538462,,2,clone,no
+mogi,3,6,arboreum,1279,four,0,1,2,clone,no
+mogi,3,6,arboreum,1279,one,28.3333333333333,1,2,clone,no
+mogi,3,6,arboreum,1279,three,1,1,2,clone,no
+mogi,3,6,arboreum,1279,two,0,1,2,clone,no
+mogi,3,7,crassinervium,1280,five,NA,,1,clone,no
+mogi,3,7,crassinervium,1280,four,NA,0,1,clone,no
+mogi,3,7,crassinervium,1280,one,5,0,1,clone,no
+mogi,3,7,crassinervium,1280,three,NA,0,1,clone,no
+mogi,3,7,crassinervium,1280,two,NA,0,1,clone,no
+mogi,3,1,crassinervium,1281,five,NA,,1,ind,no
+mogi,3,1,crassinervium,1281,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,1281,one,NA,0,1,ind,no
+mogi,3,1,crassinervium,1281,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,1281,two,NA,0,1,ind,no
+mogi,3,4,arboreum,1282,five,NA,,1,clone,no
+mogi,3,4,arboreum,1282,four,NA,0,1,clone,no
+mogi,3,4,arboreum,1282,one,18,1,1,clone,no
+mogi,3,4,arboreum,1282,three,17.5,0,1,clone,no
+mogi,3,4,arboreum,1282,two,7.33333333333333,1,1,clone,no
+mogi,3,5,miquelianum,1283,five,5.75,,1,ind,no
+mogi,3,5,miquelianum,1283,four,0,1,1,ind,no
+mogi,3,5,miquelianum,1283,one,26.5,1,1,ind,no
+mogi,3,5,miquelianum,1283,three,20,1,1,ind,no
+mogi,3,5,miquelianum,1283,two,0.5,1,1,ind,no
+mogi,3,12,richardifolium,1286,five,NA,,1,ind,no
+mogi,3,12,richardifolium,1286,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,1286,one,0,0,1,ind,no
+mogi,3,12,richardifolium,1286,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,1286,two,NA,0,1,ind,no
+mogi,3,5,miquelianum,1288,five,NA,,1,ind,no
+mogi,3,5,miquelianum,1288,four,NA,0,1,ind,no
+mogi,3,5,miquelianum,1288,one,0,1,1,ind,no
+mogi,3,5,miquelianum,1288,three,9,0,1,ind,no
+mogi,3,5,miquelianum,1288,two,0,1,1,ind,no
+mogi,3,9,richardifolium,1291,five,NA,,4,clone,no
+mogi,3,9,richardifolium,1291,four,NA,0,4,clone,no
+mogi,3,9,richardifolium,1291,one,NA,0,4,clone,no
+mogi,3,9,richardifolium,1291,three,NA,0,4,clone,no
+mogi,3,9,richardifolium,1291,two,NA,0,4,clone,no
+mogi,3,2,arboreum,1295,five,13.4166666666667,,4,ind,no
+mogi,3,2,arboreum,1295,four,0,1,4,ind,no
+mogi,3,2,arboreum,1295,one,13.125,1,4,ind,no
+mogi,3,2,arboreum,1295,three,5.33333333333333,1,4,ind,no
+mogi,3,2,arboreum,1295,two,8.375,1,4,ind,no
+mogi,3,12,richardifolium,1296,five,NA,,1,ind,no
+mogi,3,12,richardifolium,1296,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,1296,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,1296,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,1296,two,NA,0,1,ind,no
+mogi,3,5,miquelianum,1297,five,3.5,,1,ind,no
+mogi,3,5,miquelianum,1297,four,0,1,1,ind,no
+mogi,3,5,miquelianum,1297,one,0,1,1,ind,no
+mogi,3,5,miquelianum,1297,three,0,1,1,ind,no
+mogi,3,5,miquelianum,1297,two,0.75,1,1,ind,no
+mogi,3,5,miquelianum,1298,five,0.2,,1,ind,no
+mogi,3,5,miquelianum,1298,four,0,1,1,ind,no
+mogi,3,5,miquelianum,1298,one,24,1,1,ind,no
+mogi,3,5,miquelianum,1298,three,0,1,1,ind,no
+mogi,3,5,miquelianum,1298,two,0,1,1,ind,no
+mogi,3,5,miquelianum,1299,five,NA,,1,ind,no
+mogi,3,5,miquelianum,1299,four,NA,0,1,ind,no
+mogi,3,5,miquelianum,1299,one,NA,0,1,ind,no
+mogi,3,5,miquelianum,1299,three,NA,0,1,ind,no
+mogi,3,5,miquelianum,1299,two,NA,0,1,ind,no
+mogi,1,12,arboreum,1301,five,20.2857142857143,,1,clone,no
+mogi,1,12,arboreum,1301,four,0,1,1,clone,no
+mogi,1,12,arboreum,1301,one,7.33333333333333,1,1,clone,no
+mogi,1,12,arboreum,1301,three,3.6,1,1,clone,no
+mogi,1,12,arboreum,1301,two,6.33333333333333,1,1,clone,no
+mogi,1,11,richardifolium,1302,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1302,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1302,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1302,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1302,two,NA,0,1,ind,no
+mogi,1,11,richardifolium,1304,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1304,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1304,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1304,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1304,two,NA,0,1,ind,no
+mogi,1,12,arboreum,1305,five,16.92,,1,clone,no
+mogi,1,12,arboreum,1305,four,0,1,1,clone,no
+mogi,1,12,arboreum,1305,one,18.7142857142857,1,1,clone,no
+mogi,1,12,arboreum,1305,three,1,1,1,clone,no
+mogi,1,12,arboreum,1305,two,4.33333333333333,1,1,clone,no
+mogi,1,11,richardifolium,1307,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1307,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1307,one,1.75,0,1,ind,no
+mogi,1,11,richardifolium,1307,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1307,two,NA,0,1,ind,no
+mogi,1,10,richardifolium,1308,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1308,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1308,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,1308,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1308,two,NA,0,1,clone,no
+mogi,2,6,miquelianum,1309,five,9.28571428571429,,1,ind,no
+mogi,2,6,miquelianum,1309,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1309,one,0,1,1,ind,no
+mogi,2,6,miquelianum,1309,three,0,1,1,ind,no
+mogi,2,6,miquelianum,1309,two,0,1,1,ind,no
+mogi,1,11,richardifolium,1310,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1310,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1310,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1310,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1310,two,NA,0,1,ind,no
+mogi,2,3,arboreum,1311,five,NA,,1,ind,no
+mogi,2,3,arboreum,1311,four,NA,0,1,ind,no
+mogi,2,3,arboreum,1311,one,0,1,1,ind,no
+mogi,2,3,arboreum,1311,three,NA,0,1,ind,no
+mogi,2,3,arboreum,1311,two,0,0,1,ind,no
+mogi,1,9,arboreum,1312,five,NA,,1,ind,no
+mogi,1,9,arboreum,1312,four,NA,0,1,ind,no
+mogi,1,9,arboreum,1312,one,0,0,1,ind,no
+mogi,1,9,arboreum,1312,three,NA,0,1,ind,no
+mogi,1,9,arboreum,1312,two,NA,0,1,ind,no
+mogi,1,12,arboreum,1313,five,9.8,,1,clone,no
+mogi,1,12,arboreum,1313,four,0,1,1,clone,no
+mogi,1,12,arboreum,1313,one,0,1,1,clone,no
+mogi,1,12,arboreum,1313,three,1.5,1,1,clone,no
+mogi,1,12,arboreum,1313,two,2,1,1,clone,no
+mogi,1,10,richardifolium,1314,five,NA,,1,clone,no
+mogi,1,10,richardifolium,1314,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,1314,one,23.3333333333333,1,1,clone,no
+mogi,1,10,richardifolium,1314,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,1314,two,0,0,1,clone,no
+mogi,1,12,arboreum,1315,five,NA,,1,clone,no
+mogi,1,12,arboreum,1315,four,NA,0,1,clone,no
+mogi,1,12,arboreum,1315,one,5.33333333333333,1,1,clone,no
+mogi,1,12,arboreum,1315,three,0,0,1,clone,no
+mogi,1,12,arboreum,1315,two,15,1,1,clone,no
+mogi,1,11,richardifolium,1316,five,9.83333333333333,,1,ind,no
+mogi,1,11,richardifolium,1316,four,0,1,1,ind,no
+mogi,1,11,richardifolium,1316,one,2.25,1,1,ind,no
+mogi,1,11,richardifolium,1316,three,16.3333333333333,1,1,ind,no
+mogi,1,11,richardifolium,1316,two,25,1,1,ind,no
+mogi,1,11,richardifolium,1317,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1317,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1317,one,13,0,1,ind,no
+mogi,1,11,richardifolium,1317,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1317,two,NA,0,1,ind,no
+mogi,2,1,crassinervium,1318,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1318,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1318,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1318,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1318,two,NA,0,1,ind,no
+mogi,2,5,miquelianum,1319,five,NA,,2,clone,no
+mogi,2,5,miquelianum,1319,four,NA,0,2,clone,no
+mogi,2,5,miquelianum,1319,one,NA,0,2,clone,no
+mogi,2,5,miquelianum,1319,three,NA,0,2,clone,no
+mogi,2,5,miquelianum,1319,two,NA,0,2,clone,no
+mogi,1,12,arboreum,1320,five,NA,,1,clone,no
+mogi,1,12,arboreum,1320,four,NA,0,1,clone,no
+mogi,1,12,arboreum,1320,one,8.33333333333333,1,1,clone,no
+mogi,1,12,arboreum,1320,three,NA,0,1,clone,no
+mogi,1,12,arboreum,1320,two,15,0,1,clone,no
+mogi,1,11,richardifolium,1321,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1321,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1321,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1321,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1321,two,NA,0,1,ind,no
+mogi,2,3,arboreum,1322,five,2.57142857142857,,1,ind,no
+mogi,2,3,arboreum,1322,four,0,1,1,ind,no
+mogi,2,3,arboreum,1322,one,0,1,1,ind,no
+mogi,2,3,arboreum,1322,three,1.2,1,1,ind,no
+mogi,2,3,arboreum,1322,two,0,1,1,ind,no
+mogi,1,11,richardifolium,1323,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1323,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1323,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1323,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1323,two,NA,0,1,ind,no
+mogi,1,11,richardifolium,1324,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1324,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1324,one,29.5,0,1,ind,no
+mogi,1,11,richardifolium,1324,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1324,two,NA,0,1,ind,no
+mogi,1,11,richardifolium,1325,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1325,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1325,one,10.25,0,1,ind,no
+mogi,1,11,richardifolium,1325,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1325,two,NA,0,1,ind,no
+mogi,2,5,richardifolium,1326,five,NA,,2,clone,no
+mogi,2,5,richardifolium,1326,four,NA,0,2,clone,no
+mogi,2,5,richardifolium,1326,one,9,0,2,clone,no
+mogi,2,5,richardifolium,1326,three,NA,0,2,clone,no
+mogi,2,5,richardifolium,1326,two,NA,0,2,clone,no
+mogi,1,11,richardifolium,1327,five,NA,,1,ind,no
+mogi,1,11,richardifolium,1327,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,1327,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,1327,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,1327,two,NA,0,1,ind,no
+mogi,2,1,crassinervium,1328,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1328,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1328,one,35,1,1,ind,no
+mogi,2,1,crassinervium,1328,three,5.5,0,1,ind,no
+mogi,2,1,crassinervium,1328,two,14,1,1,ind,no
+mogi,2,3,arboreum,1329,five,3.6,,1,ind,no
+mogi,2,3,arboreum,1329,four,0,1,1,ind,no
+mogi,2,3,arboreum,1329,one,4,1,1,ind,no
+mogi,2,3,arboreum,1329,three,1.66666666666667,1,1,ind,no
+mogi,2,3,arboreum,1329,two,2.8,1,1,ind,no
+mogi,2,5,miquelianum,1330,five,NA,,2,clone,no
+mogi,2,5,miquelianum,1330,four,NA,0,2,clone,no
+mogi,2,5,miquelianum,1330,one,NA,0,2,clone,no
+mogi,2,5,miquelianum,1330,three,NA,0,2,clone,no
+mogi,2,5,miquelianum,1330,two,NA,0,2,clone,no
+mogi,1,12,arboreum,1331,five,12.6190476190476,,1,clone,no
+mogi,1,12,arboreum,1331,four,0,1,1,clone,no
+mogi,1,12,arboreum,1331,one,0,1,1,clone,no
+mogi,1,12,arboreum,1331,three,0.111111111111111,1,1,clone,no
+mogi,1,12,arboreum,1331,two,0,1,1,clone,no
+mogi,1,12,arboreum,1332,five,20,,1,clone,no
+mogi,1,12,arboreum,1332,four,0,1,1,clone,no
+mogi,1,12,arboreum,1332,one,30.5,1,1,clone,no
+mogi,1,12,arboreum,1332,three,1,1,1,clone,no
+mogi,1,12,arboreum,1332,two,2,1,1,clone,no
+mogi,2,3,arboreum,1333,five,6.8,,1,ind,no
+mogi,2,3,arboreum,1333,four,0,1,1,ind,no
+mogi,2,3,arboreum,1333,one,0.833333333333333,1,1,ind,no
+mogi,2,3,arboreum,1333,three,0.75,1,1,ind,no
+mogi,2,3,arboreum,1333,two,0.25,1,1,ind,no
+mogi,2,4,crassinervium,1334,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1334,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1334,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1334,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1334,two,NA,0,1,clone,no
+mogi,2,2,arboreum,1335,five,NA,,4,ind,no
+mogi,2,2,arboreum,1335,four,NA,0,4,ind,no
+mogi,2,2,arboreum,1335,one,13.3333333333333,1,4,ind,no
+mogi,2,2,arboreum,1335,three,1,0,4,ind,no
+mogi,2,2,arboreum,1335,two,3.5,1,4,ind,no
+mogi,2,7,miquelianum,1336,five,NA,,4,clone,no
+mogi,2,7,miquelianum,1336,four,NA,0,4,clone,no
+mogi,2,7,miquelianum,1336,one,0,1,4,clone,no
+mogi,2,7,miquelianum,1336,three,4,0,4,clone,no
+mogi,2,7,miquelianum,1336,two,13,1,4,clone,no
+mogi,2,7,arboreum,1337,five,3.33333333333333,,4,clone,no
+mogi,2,7,arboreum,1337,four,0,1,4,clone,no
+mogi,2,7,arboreum,1337,one,0.75,1,4,clone,no
+mogi,2,7,arboreum,1337,three,14.3333333333333,1,4,clone,no
+mogi,2,7,arboreum,1337,two,5.75,1,4,clone,no
+mogi,2,4,crassinervium,1338,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1338,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1338,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1338,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1338,two,NA,0,1,clone,no
+mogi,2,4,crassinervium,1339,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1339,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1339,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1339,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1339,two,NA,0,1,clone,no
+mogi,2,2,miquelianum,1340,five,0.555555555555556,,4,ind,no
+mogi,2,2,miquelianum,1340,four,0,1,4,ind,no
+mogi,2,2,miquelianum,1340,one,20,1,4,ind,no
+mogi,2,2,miquelianum,1340,three,0,1,4,ind,no
+mogi,2,2,miquelianum,1340,two,20.3333333333333,1,4,ind,no
+mogi,2,6,miquelianum,1341,five,24,,1,ind,no
+mogi,2,6,miquelianum,1341,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1341,one,0,1,1,ind,no
+mogi,2,6,miquelianum,1341,three,0,1,1,ind,no
+mogi,2,6,miquelianum,1341,two,0,1,1,ind,no
+mogi,2,4,crassinervium,1342,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1342,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1342,one,8,1,1,clone,no
+mogi,2,4,crassinervium,1342,three,6,0,1,clone,no
+mogi,2,4,crassinervium,1342,two,15,1,1,clone,no
+mogi,2,7,miquelianum,1343,five,NA,,4,clone,no
+mogi,2,7,miquelianum,1343,four,NA,0,4,clone,no
+mogi,2,7,miquelianum,1343,one,31.25,1,4,clone,no
+mogi,2,7,miquelianum,1343,three,20,0,4,clone,no
+mogi,2,7,miquelianum,1343,two,33.75,1,4,clone,no
+mogi,2,4,crassinervium,1344,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1344,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1344,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1344,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1344,two,NA,0,1,clone,no
+mogi,2,5,miquelianum,1345,five,NA,,2,clone,no
+mogi,2,5,miquelianum,1345,four,NA,0,2,clone,no
+mogi,2,5,miquelianum,1345,one,NA,0,2,clone,no
+mogi,2,5,miquelianum,1345,three,NA,0,2,clone,no
+mogi,2,5,miquelianum,1345,two,NA,0,2,clone,no
+mogi,2,6,miquelianum,1346,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1346,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1346,one,NA,0,1,ind,no
+mogi,2,6,miquelianum,1346,three,NA,0,1,ind,no
+mogi,2,6,miquelianum,1346,two,NA,0,1,ind,no
+mogi,2,1,crassinervium,1347,five,0,,1,ind,no
+mogi,2,1,crassinervium,1347,four,0,1,1,ind,no
+mogi,2,1,crassinervium,1347,one,20,1,1,ind,no
+mogi,2,1,crassinervium,1347,three,10.6666666666667,1,1,ind,no
+mogi,2,1,crassinervium,1347,two,0,1,1,ind,no
+mogi,2,4,crassinervium,1348,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1348,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1348,one,6,0,1,clone,no
+mogi,2,4,crassinervium,1348,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1348,two,NA,0,1,clone,no
+mogi,2,5,richardifolium,1349,five,NA,,2,clone,no
+mogi,2,5,richardifolium,1349,four,NA,0,2,clone,no
+mogi,2,5,richardifolium,1349,one,NA,0,2,clone,no
+mogi,2,5,richardifolium,1349,three,NA,0,2,clone,no
+mogi,2,5,richardifolium,1349,two,NA,0,2,clone,no
+mogi,2,3,arboreum,1350,five,NA,,1,ind,no
+mogi,2,3,arboreum,1350,four,NA,0,1,ind,no
+mogi,2,3,arboreum,1350,one,0,1,1,ind,no
+mogi,2,3,arboreum,1350,three,2,0,1,ind,no
+mogi,2,3,arboreum,1350,two,1,1,1,ind,no
+mogi,2,4,crassinervium,1351,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1351,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1351,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1351,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1351,two,NA,0,1,clone,no
+mogi,2,4,crassinervium,1352,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1352,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1352,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1352,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1352,two,NA,0,1,clone,no
+mogi,2,3,arboreum,1353,five,NA,,1,ind,no
+mogi,2,3,arboreum,1353,four,NA,0,1,ind,no
+mogi,2,3,arboreum,1353,one,0,0,1,ind,no
+mogi,2,3,arboreum,1353,three,NA,0,1,ind,no
+mogi,2,3,arboreum,1353,two,NA,0,1,ind,no
+mogi,2,1,crassinervium,1354,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1354,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1354,one,23,1,1,ind,no
+mogi,2,1,crassinervium,1354,three,4,0,1,ind,no
+mogi,2,1,crassinervium,1354,two,52,1,1,ind,no
+mogi,2,7,arboreum,1355,five,22.2083333333333,,4,clone,no
+mogi,2,7,arboreum,1355,four,0,1,4,clone,no
+mogi,2,7,arboreum,1355,one,2.69230769230769,1,4,clone,no
+mogi,2,7,arboreum,1355,three,6,1,4,clone,no
+mogi,2,7,arboreum,1355,two,3.92857142857143,1,4,clone,no
+mogi,2,7,arboreum,1356,five,11.8048780487805,,4,clone,no
+mogi,2,7,arboreum,1356,four,0,1,4,clone,no
+mogi,2,7,arboreum,1356,one,3.33333333333333,1,4,clone,no
+mogi,2,7,arboreum,1356,three,0,1,4,clone,no
+mogi,2,7,arboreum,1356,two,4,1,4,clone,no
+mogi,2,2,richardifolium,1357,five,2.5,,4,ind,no
+mogi,2,2,richardifolium,1357,four,0,1,4,ind,no
+mogi,2,2,richardifolium,1357,one,12,1,4,ind,no
+mogi,2,2,richardifolium,1357,three,0,1,4,ind,no
+mogi,2,2,richardifolium,1357,two,0.5,1,4,ind,no
+mogi,2,6,miquelianum,1358,five,1,,1,ind,no
+mogi,2,6,miquelianum,1358,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1358,one,25,1,1,ind,no
+mogi,2,6,miquelianum,1358,three,17,1,1,ind,no
+mogi,2,6,miquelianum,1358,two,27,1,1,ind,no
+mogi,2,5,miquelianum,1359,five,NA,,2,clone,no
+mogi,2,5,miquelianum,1359,four,NA,0,2,clone,no
+mogi,2,5,miquelianum,1359,one,61.5,0,2,clone,no
+mogi,2,5,miquelianum,1359,three,NA,0,2,clone,no
+mogi,2,5,miquelianum,1359,two,NA,0,2,clone,no
+mogi,2,1,crassinervium,1360,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1360,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1360,one,70,0,1,ind,no
+mogi,2,1,crassinervium,1360,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1360,two,NA,0,1,ind,no
+mogi,2,6,miquelianum,1361,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1361,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1361,one,55,0,1,ind,no
+mogi,2,6,miquelianum,1361,three,NA,0,1,ind,no
+mogi,2,6,miquelianum,1361,two,NA,0,1,ind,no
+mogi,2,5,richardifolium,1362,five,NA,,2,clone,no
+mogi,2,5,richardifolium,1362,four,NA,0,2,clone,no
+mogi,2,5,richardifolium,1362,one,NA,0,2,clone,no
+mogi,2,5,richardifolium,1362,three,NA,0,2,clone,no
+mogi,2,5,richardifolium,1362,two,NA,0,2,clone,no
+mogi,2,3,arboreum,1363,five,1.46153846153846,,1,ind,no
+mogi,2,3,arboreum,1363,four,0,1,1,ind,no
+mogi,2,3,arboreum,1363,one,9.5,1,1,ind,no
+mogi,2,3,arboreum,1363,three,2,1,1,ind,no
+mogi,2,3,arboreum,1363,two,11.25,1,1,ind,no
+mogi,2,5,miquelianum,1364,five,6.25,,2,clone,no
+mogi,2,5,miquelianum,1364,four,0,1,2,clone,no
+mogi,2,5,miquelianum,1364,one,50.5,1,2,clone,no
+mogi,2,5,miquelianum,1364,three,47.5,1,2,clone,no
+mogi,2,5,miquelianum,1364,two,52,1,2,clone,no
+mogi,2,4,crassinervium,1365,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1365,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1365,one,0,1,1,clone,no
+mogi,2,4,crassinervium,1365,three,27.5,0,1,clone,no
+mogi,2,4,crassinervium,1365,two,25,1,1,clone,no
+mogi,2,1,crassinervium,1367,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1367,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1367,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1367,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1367,two,NA,0,1,ind,no
+mogi,2,5,miquelianum,1368,five,1.44444444444444,,2,clone,no
+mogi,2,5,miquelianum,1368,four,0,1,2,clone,no
+mogi,2,5,miquelianum,1368,one,1,1,2,clone,no
+mogi,2,5,miquelianum,1368,three,0.5,1,2,clone,no
+mogi,2,5,miquelianum,1368,two,0,1,2,clone,no
+mogi,2,1,crassinervium,1369,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1369,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1369,one,NA,0,1,ind,no
+mogi,2,1,crassinervium,1369,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1369,two,NA,0,1,ind,no
+mogi,2,7,miquelianum,1370,five,8.18181818181818,,4,clone,no
+mogi,2,7,miquelianum,1370,four,0,1,4,clone,no
+mogi,2,7,miquelianum,1370,one,57,1,4,clone,no
+mogi,2,7,miquelianum,1370,three,44.8333333333333,1,4,clone,no
+mogi,2,7,miquelianum,1370,two,60,1,4,clone,no
+mogi,2,7,richardifolium,1371,five,NA,,4,clone,no
+mogi,2,7,richardifolium,1371,four,NA,0,4,clone,no
+mogi,2,7,richardifolium,1371,one,2,0,4,clone,no
+mogi,2,7,richardifolium,1371,three,NA,0,4,clone,no
+mogi,2,7,richardifolium,1371,two,NA,0,4,clone,no
+mogi,2,1,crassinervium,1372,five,29.2,,1,ind,no
+mogi,2,1,crassinervium,1372,four,0,1,1,ind,no
+mogi,2,1,crassinervium,1372,one,0,1,1,ind,no
+mogi,2,1,crassinervium,1372,three,1.5,1,1,ind,no
+mogi,2,1,crassinervium,1372,two,0,1,1,ind,no
+mogi,2,3,arboreum,1373,five,10.75,,1,ind,no
+mogi,2,3,arboreum,1373,four,0,1,1,ind,no
+mogi,2,3,arboreum,1373,one,9,1,1,ind,no
+mogi,2,3,arboreum,1373,three,14.5,1,1,ind,no
+mogi,2,3,arboreum,1373,two,0.5,1,1,ind,no
+mogi,2,4,crassinervium,1374,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1374,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1374,one,NA,0,1,clone,no
+mogi,2,4,crassinervium,1374,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1374,two,NA,0,1,clone,no
+mogi,2,6,miquelianum,1375,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1375,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1375,one,NA,0,1,ind,no
+mogi,2,6,miquelianum,1375,three,NA,0,1,ind,no
+mogi,2,6,miquelianum,1375,two,NA,0,1,ind,no
+mogi,2,3,arboreum,1376,five,8.57894736842105,,1,ind,no
+mogi,2,3,arboreum,1376,four,0,1,1,ind,no
+mogi,2,3,arboreum,1376,one,0,1,1,ind,no
+mogi,2,3,arboreum,1376,three,2.125,1,1,ind,no
+mogi,2,3,arboreum,1376,two,0.75,1,1,ind,no
+mogi,2,7,arboreum,1377,five,11.9795918367347,,4,clone,no
+mogi,2,7,arboreum,1377,four,0,1,4,clone,no
+mogi,2,7,arboreum,1377,one,5.16666666666667,1,4,clone,no
+mogi,2,7,arboreum,1377,three,9.54545454545455,1,4,clone,no
+mogi,2,7,arboreum,1377,two,10,1,4,clone,no
+mogi,2,6,miquelianum,1378,five,3,,1,ind,no
+mogi,2,6,miquelianum,1378,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1378,one,2.5,1,1,ind,no
+mogi,2,6,miquelianum,1378,three,2.5,1,1,ind,no
+mogi,2,6,miquelianum,1378,two,4,1,1,ind,no
+mogi,2,1,crassinervium,1379,five,NA,,1,ind,no
+mogi,2,1,crassinervium,1379,four,NA,0,1,ind,no
+mogi,2,1,crassinervium,1379,one,10,0,1,ind,no
+mogi,2,1,crassinervium,1379,three,NA,0,1,ind,no
+mogi,2,1,crassinervium,1379,two,NA,0,1,ind,no
+mogi,2,7,richardifolium,1380,five,NA,,4,clone,no
+mogi,2,7,richardifolium,1380,four,NA,0,4,clone,no
+mogi,2,7,richardifolium,1380,one,NA,0,4,clone,no
+mogi,2,7,richardifolium,1380,three,NA,0,4,clone,no
+mogi,2,7,richardifolium,1380,two,NA,0,4,clone,no
+mogi,2,7,crassinervium,1381,five,NA,,4,clone,no
+mogi,2,7,crassinervium,1381,four,NA,0,4,clone,no
+mogi,2,7,crassinervium,1381,one,NA,0,4,clone,no
+mogi,2,7,crassinervium,1381,three,NA,0,4,clone,no
+mogi,2,7,crassinervium,1381,two,NA,0,4,clone,no
+mogi,2,8,arboreum,1382,five,3.83333333333333,,1,clone,no
+mogi,2,8,arboreum,1382,four,0,1,1,clone,no
+mogi,2,8,arboreum,1382,one,7.125,1,1,clone,no
+mogi,2,8,arboreum,1382,three,4.36363636363636,1,1,clone,no
+mogi,2,8,arboreum,1382,two,3.42857142857143,1,1,clone,no
+mogi,2,2,arboreum,1383,five,3.22222222222222,,4,ind,no
+mogi,2,2,arboreum,1383,four,0,1,4,ind,no
+mogi,2,2,arboreum,1383,one,0,1,4,ind,no
+mogi,2,2,arboreum,1383,three,1,1,4,ind,no
+mogi,2,2,arboreum,1383,two,0,1,4,ind,no
+mogi,2,2,crassinervium,1384,five,NA,,4,ind,no
+mogi,2,2,crassinervium,1384,four,NA,0,4,ind,no
+mogi,2,2,crassinervium,1384,one,6,1,4,ind,no
+mogi,2,2,crassinervium,1384,three,2,0,4,ind,no
+mogi,2,2,crassinervium,1384,two,2,1,4,ind,no
+mogi,1,6,miquelianum,1385,five,1.66666666666667,,1,ind,no
+mogi,1,6,miquelianum,1385,four,16.6666666666667,1,1,ind,no
+mogi,1,6,miquelianum,1385,one,9.625,1,1,ind,no
+mogi,1,6,miquelianum,1385,three,28.5,1,1,ind,no
+mogi,1,6,miquelianum,1385,two,14,1,1,ind,no
+mogi,2,9,miquelianum,1386,five,3,,1,clone,no
+mogi,2,9,miquelianum,1386,four,0,1,1,clone,no
+mogi,2,9,miquelianum,1386,one,48.3333333333333,1,1,clone,no
+mogi,2,9,miquelianum,1386,three,21.6666666666667,1,1,clone,no
+mogi,2,9,miquelianum,1386,two,45,1,1,clone,no
+mogi,2,2,crassinervium,1387,five,2.6,,4,ind,no
+mogi,2,2,crassinervium,1387,four,0,1,4,ind,no
+mogi,2,2,crassinervium,1387,one,0,1,4,ind,no
+mogi,2,2,crassinervium,1387,three,2.5,1,4,ind,no
+mogi,2,2,crassinervium,1387,two,2.25,1,4,ind,no
+mogi,2,9,miquelianum,1388,five,2.23076923076923,,1,clone,no
+mogi,2,9,miquelianum,1388,four,0,1,1,clone,no
+mogi,2,9,miquelianum,1388,one,25.375,1,1,clone,no
+mogi,2,9,miquelianum,1388,three,0.5,1,1,clone,no
+mogi,2,9,miquelianum,1388,two,0.5,1,1,clone,no
+mogi,2,8,arboreum,1389,five,NA,,1,clone,no
+mogi,2,8,arboreum,1389,four,NA,0,1,clone,no
+mogi,2,8,arboreum,1389,one,NA,0,1,clone,no
+mogi,2,8,arboreum,1389,three,NA,0,1,clone,no
+mogi,2,8,arboreum,1389,two,NA,0,1,clone,no
+mogi,2,9,miquelianum,1390,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1390,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1390,one,NA,0,1,clone,no
+mogi,2,9,miquelianum,1390,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1390,two,NA,0,1,clone,no
+mogi,2,7,crassinervium,1391,five,NA,,4,clone,no
+mogi,2,7,crassinervium,1391,four,NA,0,4,clone,no
+mogi,2,7,crassinervium,1391,one,46.75,1,4,clone,no
+mogi,2,7,crassinervium,1391,three,NA,0,4,clone,no
+mogi,2,7,crassinervium,1391,two,0,0,4,clone,no
+mogi,2,11,richardifolium,1392,five,NA,,1,ind,no
+mogi,2,11,richardifolium,1392,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,1392,one,NA,0,1,ind,no
+mogi,2,11,richardifolium,1392,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,1392,two,NA,0,1,ind,no
+mogi,2,9,miquelianum,1393,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1393,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1393,one,0,1,1,clone,no
+mogi,2,9,miquelianum,1393,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1393,two,16.6666666666667,0,1,clone,no
+mogi,2,9,miquelianum,1394,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1394,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1394,one,60,1,1,clone,no
+mogi,2,9,miquelianum,1394,three,NA,0,1,clone,no
+mogi,2,9,miquelianum,1394,two,70,0,1,clone,no
+mogi,3,8,arboreum,1395,five,23.6111111111111,,1,ind,no
+mogi,3,8,arboreum,1395,four,0,1,1,ind,no
+mogi,3,8,arboreum,1395,one,0,1,1,ind,no
+mogi,3,8,arboreum,1395,three,0,1,1,ind,no
+mogi,3,8,arboreum,1395,two,0,1,1,ind,no
+mogi,2,9,miquelianum,1396,five,NA,,1,clone,no
+mogi,2,9,miquelianum,1396,four,NA,0,1,clone,no
+mogi,2,9,miquelianum,1396,one,0,1,1,clone,no
+mogi,2,9,miquelianum,1396,three,0,0,1,clone,no
+mogi,2,9,miquelianum,1396,two,0,1,1,clone,no
+mogi,2,6,miquelianum,1397,five,NA,,1,ind,no
+mogi,2,6,miquelianum,1397,four,NA,0,1,ind,no
+mogi,2,6,miquelianum,1397,one,11.2222222222222,1,1,ind,no
+mogi,2,6,miquelianum,1397,three,17.6666666666667,0,1,ind,no
+mogi,2,6,miquelianum,1397,two,20,1,1,ind,no
+mogi,3,8,arboreum,1398,five,NA,,1,ind,no
+mogi,3,8,arboreum,1398,four,NA,0,1,ind,no
+mogi,3,8,arboreum,1398,one,22.8,0,1,ind,no
+mogi,3,8,arboreum,1398,three,NA,0,1,ind,no
+mogi,3,8,arboreum,1398,two,NA,0,1,ind,no
+mogi,3,11,arboreum,1399,five,0.666666666666667,,2,ind,no
+mogi,3,11,arboreum,1399,four,0.5,1,2,ind,no
+mogi,3,11,arboreum,1399,one,0,1,2,ind,no
+mogi,3,11,arboreum,1399,three,1,1,2,ind,no
+mogi,3,11,arboreum,1399,two,0.5,1,2,ind,no
+mogi,3,8,arboreum,1400,five,10.25,,1,ind,no
+mogi,3,8,arboreum,1400,four,0,1,1,ind,no
+mogi,3,8,arboreum,1400,one,0.333333333333333,1,1,ind,no
+mogi,3,8,arboreum,1400,three,0.666666666666667,1,1,ind,no
+mogi,3,8,arboreum,1400,two,3.2,1,1,ind,no
+mogi,1,2,crassinervium,1401,five,2,,2,clone,no
+mogi,1,2,crassinervium,1401,four,6.25,1,2,clone,no
+mogi,1,2,crassinervium,1401,one,1,1,2,clone,no
+mogi,1,2,crassinervium,1401,three,9,1,2,clone,no
+mogi,1,2,crassinervium,1401,two,1.5,1,2,clone,no
+mogi,1,2,miquelianum,1402,five,0.25,,2,clone,no
+mogi,1,2,miquelianum,1402,four,0.333333333333333,1,2,clone,no
+mogi,1,2,miquelianum,1402,one,50,1,2,clone,no
+mogi,1,2,miquelianum,1402,three,23.5,1,2,clone,no
+mogi,1,2,miquelianum,1402,two,50,1,2,clone,no
+mogi,1,2,crassinervium,1403,five,NA,,2,clone,no
+mogi,1,2,crassinervium,1403,four,NA,0,2,clone,no
+mogi,1,2,crassinervium,1403,one,0,0,2,clone,no
+mogi,1,2,crassinervium,1403,three,NA,0,2,clone,no
+mogi,1,2,crassinervium,1403,two,NA,0,2,clone,no
+mogi,1,2,miquelianum,1404,five,NA,,2,clone,no
+mogi,1,2,miquelianum,1404,four,10,0,2,clone,no
+mogi,1,2,miquelianum,1404,one,10.3333333333333,1,2,clone,no
+mogi,1,2,miquelianum,1404,three,0,1,2,clone,no
+mogi,1,2,miquelianum,1404,two,11.2,1,2,clone,no
+mogi,1,2,miquelianum,1405,five,0.6,,2,clone,no
+mogi,1,2,miquelianum,1405,four,9,1,2,clone,no
+mogi,1,2,miquelianum,1405,one,11.7142857142857,1,2,clone,no
+mogi,1,2,miquelianum,1405,three,12.5,1,2,clone,no
+mogi,1,2,miquelianum,1405,two,0,1,2,clone,no
+mogi,1,1,crassinervium,1406,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1406,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1406,one,NA,0,1,clone,no
+mogi,1,1,crassinervium,1406,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1406,two,NA,0,1,clone,no
+mogi,1,2,crassinervium,1407,five,NA,,2,clone,no
+mogi,1,2,crassinervium,1407,four,NA,0,2,clone,no
+mogi,1,2,crassinervium,1407,one,0,1,2,clone,no
+mogi,1,2,crassinervium,1407,three,6.8,0,2,clone,no
+mogi,1,2,crassinervium,1407,two,0,1,2,clone,no
+mogi,1,2,miquelianum,1408,five,10.7142857142857,,2,clone,no
+mogi,1,2,miquelianum,1408,four,0,1,2,clone,no
+mogi,1,2,miquelianum,1408,one,1.5,1,2,clone,no
+mogi,1,2,miquelianum,1408,three,0.4,1,2,clone,no
+mogi,1,2,miquelianum,1408,two,0.333333333333333,1,2,clone,no
+mogi,1,9,arboreum,1409,five,2.375,,1,ind,no
+mogi,1,9,arboreum,1409,four,0,1,1,ind,no
+mogi,1,9,arboreum,1409,one,0,1,1,ind,no
+mogi,1,9,arboreum,1409,three,1,1,1,ind,no
+mogi,1,9,arboreum,1409,two,1,1,1,ind,no
+mogi,1,1,crassinervium,1410,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1410,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1410,one,0.5,0,1,clone,no
+mogi,1,1,crassinervium,1410,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1410,two,NA,0,1,clone,no
+mogi,1,3,miquelianum,1411,five,NA,,4,clone,no
+mogi,1,3,miquelianum,1411,four,NA,0,4,clone,no
+mogi,1,3,miquelianum,1411,one,21.3333333333333,0,4,clone,no
+mogi,1,3,miquelianum,1411,three,NA,0,4,clone,no
+mogi,1,3,miquelianum,1411,two,NA,0,4,clone,no
+mogi,1,2,miquelianum,1412,five,1.63157894736842,,2,clone,no
+mogi,1,2,miquelianum,1412,four,10.3333333333333,1,2,clone,no
+mogi,1,2,miquelianum,1412,one,17,1,2,clone,no
+mogi,1,2,miquelianum,1412,three,8.85714285714286,1,2,clone,no
+mogi,1,2,miquelianum,1412,two,16.6666666666667,1,2,clone,no
+mogi,1,2,miquelianum,1413,five,5,,2,clone,no
+mogi,1,2,miquelianum,1413,four,3.16666666666667,1,2,clone,no
+mogi,1,2,miquelianum,1413,one,3.25,1,2,clone,no
+mogi,1,2,miquelianum,1413,three,4,1,2,clone,no
+mogi,1,2,miquelianum,1413,two,3.5,1,2,clone,no
+mogi,1,2,crassinervium,1414,five,10.2,,2,clone,no
+mogi,1,2,crassinervium,1414,four,5,1,2,clone,no
+mogi,1,2,crassinervium,1414,one,0.25,1,2,clone,no
+mogi,1,2,crassinervium,1414,three,12.5,1,2,clone,no
+mogi,1,2,crassinervium,1414,two,0,1,2,clone,no
+mogi,1,1,crassinervium,1415,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1415,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1415,one,29,0,1,clone,no
+mogi,1,1,crassinervium,1415,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1415,two,NA,0,1,clone,no
+mogi,1,1,crassinervium,1416,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1416,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1416,one,3,1,1,clone,no
+mogi,1,1,crassinervium,1416,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1416,two,4,0,1,clone,no
+mogi,1,3,crassinervium,1418,five,NA,,4,clone,no
+mogi,1,3,crassinervium,1418,four,NA,0,4,clone,no
+mogi,1,3,crassinervium,1418,one,NA,0,4,clone,no
+mogi,1,3,crassinervium,1418,three,NA,0,4,clone,no
+mogi,1,3,crassinervium,1418,two,NA,0,4,clone,no
+mogi,1,8,miquelianum,1419,five,1.25,,1,clone,no
+mogi,1,8,miquelianum,1419,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1419,one,50,1,1,clone,no
+mogi,1,8,miquelianum,1419,three,0,1,1,clone,no
+mogi,1,8,miquelianum,1419,two,55,1,1,clone,no
+mogi,1,4,crassinervium,1420,five,2.75,,2,ind,no
+mogi,1,4,crassinervium,1420,four,1.33333333333333,1,2,ind,no
+mogi,1,4,crassinervium,1420,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1420,three,2,1,2,ind,no
+mogi,1,4,crassinervium,1420,two,1.66666666666667,1,2,ind,no
+mogi,1,4,crassinervium,1421,five,NA,,2,ind,no
+mogi,1,4,crassinervium,1421,four,NA,0,2,ind,no
+mogi,1,4,crassinervium,1421,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1421,three,NA,0,2,ind,no
+mogi,1,4,crassinervium,1421,two,2,0,2,ind,no
+mogi,1,4,miquelianum,1422,five,3.5,,2,ind,no
+mogi,1,4,miquelianum,1422,four,6.25,1,2,ind,no
+mogi,1,4,miquelianum,1422,one,0,1,2,ind,no
+mogi,1,4,miquelianum,1422,three,21.25,1,2,ind,no
+mogi,1,4,miquelianum,1422,two,37.25,1,2,ind,no
+mogi,1,4,crassinervium,1423,five,1,,2,ind,no
+mogi,1,4,crassinervium,1423,four,3.5,1,2,ind,no
+mogi,1,4,crassinervium,1423,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1423,three,2,1,2,ind,no
+mogi,1,4,crassinervium,1423,two,0,1,2,ind,no
+mogi,1,6,miquelianum,1424,five,1.45454545454545,,1,ind,no
+mogi,1,6,miquelianum,1424,four,0,1,1,ind,no
+mogi,1,6,miquelianum,1424,one,25.5,1,1,ind,no
+mogi,1,6,miquelianum,1424,three,14.6666666666667,1,1,ind,no
+mogi,1,6,miquelianum,1424,two,15.5,1,1,ind,no
+mogi,1,8,miquelianum,1425,five,12.6666666666667,,1,clone,no
+mogi,1,8,miquelianum,1425,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1425,one,26.5,1,1,clone,no
+mogi,1,8,miquelianum,1425,three,16.6666666666667,1,1,clone,no
+mogi,1,8,miquelianum,1425,two,24,1,1,clone,no
+mogi,1,3,miquelianum,1426,five,NA,,4,clone,no
+mogi,1,3,miquelianum,1426,four,NA,0,4,clone,no
+mogi,1,3,miquelianum,1426,one,50,0,4,clone,no
+mogi,1,3,miquelianum,1426,three,NA,0,4,clone,no
+mogi,1,3,miquelianum,1426,two,NA,0,4,clone,no
+mogi,1,3,crassinervium,1427,five,NA,,4,clone,no
+mogi,1,3,crassinervium,1427,four,0,0,4,clone,no
+mogi,1,3,crassinervium,1427,one,5,1,4,clone,no
+mogi,1,3,crassinervium,1427,three,28,1,4,clone,no
+mogi,1,3,crassinervium,1427,two,41,1,4,clone,no
+mogi,1,6,miquelianum,1428,five,NA,,1,ind,no
+mogi,1,6,miquelianum,1428,four,NA,0,1,ind,no
+mogi,1,6,miquelianum,1428,one,NA,0,1,ind,no
+mogi,1,6,miquelianum,1428,three,NA,0,1,ind,no
+mogi,1,6,miquelianum,1428,two,NA,0,1,ind,no
+mogi,1,5,crassinervium,1429,five,15.8,,4,ind,no
+mogi,1,5,crassinervium,1429,four,0.333333333333333,1,4,ind,no
+mogi,1,5,crassinervium,1429,one,0,1,4,ind,no
+mogi,1,5,crassinervium,1429,three,0.5,1,4,ind,no
+mogi,1,5,crassinervium,1429,two,1,1,4,ind,no
+mogi,1,3,arboreum,1430,five,8.4375,,4,clone,no
+mogi,1,3,arboreum,1430,four,0,1,4,clone,no
+mogi,1,3,arboreum,1430,one,1.25,1,4,clone,no
+mogi,1,3,arboreum,1430,three,0,1,4,clone,no
+mogi,1,3,arboreum,1430,two,20,1,4,clone,no
+mogi,1,2,crassinervium,1431,five,NA,,2,clone,no
+mogi,1,2,crassinervium,1431,four,NA,0,2,clone,no
+mogi,1,2,crassinervium,1431,one,NA,0,2,clone,no
+mogi,1,2,crassinervium,1431,three,NA,0,2,clone,no
+mogi,1,2,crassinervium,1431,two,NA,0,2,clone,no
+mogi,1,3,richardifolium,1432,five,NA,,4,clone,no
+mogi,1,3,richardifolium,1432,four,NA,0,4,clone,no
+mogi,1,3,richardifolium,1432,one,19.6666666666667,0,4,clone,no
+mogi,1,3,richardifolium,1432,three,NA,0,4,clone,no
+mogi,1,3,richardifolium,1432,two,NA,0,4,clone,no
+mogi,1,3,richardifolium,1433,five,NA,,4,clone,no
+mogi,1,3,richardifolium,1433,four,NA,0,4,clone,no
+mogi,1,3,richardifolium,1433,one,43.3333333333333,0,4,clone,no
+mogi,1,3,richardifolium,1433,three,NA,0,4,clone,no
+mogi,1,3,richardifolium,1433,two,NA,0,4,clone,no
+mogi,1,3,crassinervium,1434,five,0,,4,clone,no
+mogi,1,3,crassinervium,1434,four,2.16666666666667,1,4,clone,no
+mogi,1,3,crassinervium,1434,one,11,1,4,clone,no
+mogi,1,3,crassinervium,1434,three,3.4,1,4,clone,no
+mogi,1,3,crassinervium,1434,two,4.66666666666667,1,4,clone,no
+mogi,1,4,crassinervium,1435,five,NA,,2,ind,no
+mogi,1,4,crassinervium,1435,four,0.5,0,2,ind,no
+mogi,1,4,crassinervium,1435,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1435,three,13.5,1,2,ind,no
+mogi,1,4,crassinervium,1435,two,15,1,2,ind,no
+mogi,1,8,miquelianum,1436,five,1.5,,1,clone,no
+mogi,1,8,miquelianum,1436,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1436,one,0,1,1,clone,no
+mogi,1,8,miquelianum,1436,three,0,1,1,clone,no
+mogi,1,8,miquelianum,1436,two,0,1,1,clone,no
+mogi,1,4,miquelianum,1437,five,2.45454545454545,,2,ind,no
+mogi,1,4,miquelianum,1437,four,1.25,1,2,ind,no
+mogi,1,4,miquelianum,1437,one,28,1,2,ind,no
+mogi,1,4,miquelianum,1437,three,1,1,2,ind,no
+mogi,1,4,miquelianum,1437,two,0,1,2,ind,no
+mogi,1,4,miquelianum,1438,five,5.625,,2,ind,no
+mogi,1,4,miquelianum,1438,four,10.5,1,2,ind,no
+mogi,1,4,miquelianum,1438,one,0,1,2,ind,no
+mogi,1,4,miquelianum,1438,three,14,1,2,ind,no
+mogi,1,4,miquelianum,1438,two,26,1,2,ind,no
+mogi,1,7,crassinervium,1439,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1439,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1439,one,0.6,1,1,ind,no
+mogi,1,7,crassinervium,1439,three,2,0,1,ind,no
+mogi,1,7,crassinervium,1439,two,0,1,1,ind,no
+mogi,1,5,miquelianum,1440,five,13,,4,ind,no
+mogi,1,5,miquelianum,1440,four,11.4,1,4,ind,no
+mogi,1,5,miquelianum,1440,one,0,1,4,ind,no
+mogi,1,5,miquelianum,1440,three,15.7142857142857,1,4,ind,no
+mogi,1,5,miquelianum,1440,two,9,1,4,ind,no
+mogi,1,4,miquelianum,1441,five,6.7,,2,ind,no
+mogi,1,4,miquelianum,1441,four,23.75,1,2,ind,no
+mogi,1,4,miquelianum,1441,one,0,1,2,ind,no
+mogi,1,4,miquelianum,1441,three,19.6,1,2,ind,no
+mogi,1,4,miquelianum,1441,two,74,1,2,ind,no
+mogi,1,1,crassinervium,1442,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1442,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1442,one,45,1,1,clone,no
+mogi,1,1,crassinervium,1442,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1442,two,50,0,1,clone,no
+mogi,1,1,crassinervium,1443,five,7.66666666666667,,1,clone,no
+mogi,1,1,crassinervium,1443,four,1.5,1,1,clone,no
+mogi,1,1,crassinervium,1443,one,0,1,1,clone,no
+mogi,1,1,crassinervium,1443,three,4.8,1,1,clone,no
+mogi,1,1,crassinervium,1443,two,3,1,1,clone,no
+mogi,1,6,miquelianum,1444,five,0.375,,1,ind,no
+mogi,1,6,miquelianum,1444,four,0,1,1,ind,no
+mogi,1,6,miquelianum,1444,one,33.3333333333333,1,1,ind,no
+mogi,1,6,miquelianum,1444,three,0,1,1,ind,no
+mogi,1,6,miquelianum,1444,two,25,1,1,ind,no
+mogi,1,3,richardifolium,1445,five,NA,,4,clone,no
+mogi,1,3,richardifolium,1445,four,NA,0,4,clone,no
+mogi,1,3,richardifolium,1445,one,NA,0,4,clone,no
+mogi,1,3,richardifolium,1445,three,NA,0,4,clone,no
+mogi,1,3,richardifolium,1445,two,NA,0,4,clone,no
+mogi,1,8,miquelianum,1446,five,0,,1,clone,no
+mogi,1,8,miquelianum,1446,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1446,one,22.4,1,1,clone,no
+mogi,1,8,miquelianum,1446,three,40,1,1,clone,no
+mogi,1,8,miquelianum,1446,two,21.6,1,1,clone,no
+mogi,1,4,crassinervium,1447,five,NA,,2,ind,no
+mogi,1,4,crassinervium,1447,four,25.25,0,2,ind,no
+mogi,1,4,crassinervium,1447,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1447,three,33.9090909090909,1,2,ind,no
+mogi,1,4,crassinervium,1447,two,81,1,2,ind,no
+mogi,1,7,crassinervium,1448,five,2.66666666666667,,1,ind,no
+mogi,1,7,crassinervium,1448,four,0,1,1,ind,no
+mogi,1,7,crassinervium,1448,one,40,1,1,ind,no
+mogi,1,7,crassinervium,1448,three,16.6666666666667,1,1,ind,no
+mogi,1,7,crassinervium,1448,two,21.3333333333333,1,1,ind,no
+mogi,1,3,arboreum,1449,five,3.5,,4,clone,no
+mogi,1,3,arboreum,1449,four,0,1,4,clone,no
+mogi,1,3,arboreum,1449,one,0,1,4,clone,no
+mogi,1,3,arboreum,1449,three,3.4,1,4,clone,no
+mogi,1,3,arboreum,1449,two,1,1,4,clone,no
+mogi,1,8,miquelianum,1450,five,NA,,1,clone,no
+mogi,1,8,miquelianum,1450,four,NA,0,1,clone,no
+mogi,1,8,miquelianum,1450,one,NA,0,1,clone,no
+mogi,1,8,miquelianum,1450,three,NA,0,1,clone,no
+mogi,1,8,miquelianum,1450,two,NA,0,1,clone,no
+mogi,1,8,miquelianum,1451,five,4.545454545,,1,clone,no
+mogi,1,8,miquelianum,1451,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1451,one,34,1,1,clone,no
+mogi,1,8,miquelianum,1451,three,23.75,1,1,clone,no
+mogi,1,8,miquelianum,1451,two,33.6,1,1,clone,no
+mogi,1,9,arboreum,1452,five,5.6,,1,ind,no
+mogi,1,9,arboreum,1452,four,0,1,1,ind,no
+mogi,1,9,arboreum,1452,one,4.66666666666667,1,1,ind,no
+mogi,1,9,arboreum,1452,three,3,1,1,ind,no
+mogi,1,9,arboreum,1452,two,2,1,1,ind,no
+mogi,1,8,miquelianum,1453,five,NA,,1,clone,no
+mogi,1,8,miquelianum,1453,four,NA,0,1,clone,no
+mogi,1,8,miquelianum,1453,one,6.375,1,1,clone,no
+mogi,1,8,miquelianum,1453,three,0.25,0,1,clone,no
+mogi,1,8,miquelianum,1453,two,0.25,1,1,clone,no
+mogi,1,3,miquelianum,1454,five,NA,,4,clone,no
+mogi,1,3,miquelianum,1454,four,1,0,4,clone,no
+mogi,1,3,miquelianum,1454,one,0.666666666666667,1,4,clone,no
+mogi,1,3,miquelianum,1454,three,0.4,1,4,clone,no
+mogi,1,3,miquelianum,1454,two,0.333333333333333,1,4,clone,no
+mogi,1,9,arboreum,1455,five,NA,,1,ind,no
+mogi,1,9,arboreum,1455,four,NA,0,1,ind,no
+mogi,1,9,arboreum,1455,one,NA,0,1,ind,no
+mogi,1,9,arboreum,1455,three,NA,0,1,ind,no
+mogi,1,9,arboreum,1455,two,NA,0,1,ind,no
+mogi,1,9,arboreum,1456,five,4.33333333333333,,1,ind,no
+mogi,1,9,arboreum,1456,four,0,1,1,ind,no
+mogi,1,9,arboreum,1456,one,1.66666666666667,1,1,ind,no
+mogi,1,9,arboreum,1456,three,0.75,1,1,ind,no
+mogi,1,9,arboreum,1456,two,3.5,1,1,ind,no
+mogi,1,6,miquelianum,1457,five,NA,,1,ind,no
+mogi,1,6,miquelianum,1457,four,6.5,0,1,ind,no
+mogi,1,6,miquelianum,1457,one,4,1,1,ind,no
+mogi,1,6,miquelianum,1457,three,11,1,1,ind,no
+mogi,1,6,miquelianum,1457,two,12,1,1,ind,no
+mogi,1,1,crassinervium,1458,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1458,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1458,one,NA,0,1,clone,no
+mogi,1,1,crassinervium,1458,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1458,two,NA,0,1,clone,no
+mogi,1,1,crassinervium,1459,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1459,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1459,one,3.5,1,1,clone,no
+mogi,1,1,crassinervium,1459,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1459,two,2,0,1,clone,no
+mogi,1,8,miquelianum,1460,five,28.3333333333333,,1,clone,no
+mogi,1,8,miquelianum,1460,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1460,one,36.6666666666667,1,1,clone,no
+mogi,1,8,miquelianum,1460,three,26.6666666666667,1,1,clone,no
+mogi,1,8,miquelianum,1460,two,0,1,1,clone,no
+mogi,1,7,crassinervium,1461,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1461,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1461,one,20,0,1,ind,no
+mogi,1,7,crassinervium,1461,three,NA,0,1,ind,no
+mogi,1,7,crassinervium,1461,two,NA,0,1,ind,no
+mogi,1,1,crassinervium,1462,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1462,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1462,one,29,0,1,clone,no
+mogi,1,1,crassinervium,1462,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1462,two,NA,0,1,clone,no
+mogi,1,6,miquelianum,1463,five,NA,,1,ind,no
+mogi,1,6,miquelianum,1463,four,NA,0,1,ind,no
+mogi,1,6,miquelianum,1463,one,NA,0,1,ind,no
+mogi,1,6,miquelianum,1463,three,NA,0,1,ind,no
+mogi,1,6,miquelianum,1463,two,NA,0,1,ind,no
+mogi,1,1,crassinervium,1464,five,22.5,,1,clone,no
+mogi,1,1,crassinervium,1464,four,15.75,1,1,clone,no
+mogi,1,1,crassinervium,1464,one,30.2,1,1,clone,no
+mogi,1,1,crassinervium,1464,three,0,1,1,clone,no
+mogi,1,1,crassinervium,1464,two,17,1,1,clone,no
+mogi,1,1,crassinervium,1465,five,NA,,1,clone,no
+mogi,1,1,crassinervium,1465,four,NA,0,1,clone,no
+mogi,1,1,crassinervium,1465,one,NA,0,1,clone,no
+mogi,1,1,crassinervium,1465,three,NA,0,1,clone,no
+mogi,1,1,crassinervium,1465,two,NA,0,1,clone,no
+mogi,1,2,crassinervium,1466,five,NA,,2,clone,no
+mogi,1,2,crassinervium,1466,four,NA,0,2,clone,no
+mogi,1,2,crassinervium,1466,one,11.6666666666667,0,2,clone,no
+mogi,1,2,crassinervium,1466,three,NA,0,2,clone,no
+mogi,1,2,crassinervium,1466,two,NA,0,2,clone,no
+mogi,1,1,crassinervium,1467,five,37.75,,1,clone,no
+mogi,1,1,crassinervium,1467,four,2,1,1,clone,no
+mogi,1,1,crassinervium,1467,one,38,1,1,clone,no
+mogi,1,1,crassinervium,1467,three,5,1,1,clone,no
+mogi,1,1,crassinervium,1467,two,61,1,1,clone,no
+mogi,1,4,crassinervium,1468,five,30,,2,ind,no
+mogi,1,4,crassinervium,1468,four,6.66666666666667,1,2,ind,no
+mogi,1,4,crassinervium,1468,one,0,1,2,ind,no
+mogi,1,4,crassinervium,1468,three,0,1,2,ind,no
+mogi,1,4,crassinervium,1468,two,0,1,2,ind,no
+mogi,1,8,miquelianum,1469,five,0.075,,1,clone,no
+mogi,1,8,miquelianum,1469,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1469,one,46.375,1,1,clone,no
+mogi,1,8,miquelianum,1469,three,38,1,1,clone,no
+mogi,1,8,miquelianum,1469,two,44.1666666666667,1,1,clone,no
+mogi,1,8,miquelianum,1470,five,0,,1,clone,no
+mogi,1,8,miquelianum,1470,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1470,one,34.7142857142857,1,1,clone,no
+mogi,1,8,miquelianum,1470,three,0.5,1,1,clone,no
+mogi,1,8,miquelianum,1470,two,0,1,1,clone,no
+mogi,1,4,miquelianum,1471,five,4.81818181818182,,2,ind,no
+mogi,1,4,miquelianum,1471,four,0.75,1,2,ind,no
+mogi,1,4,miquelianum,1471,one,0,1,2,ind,no
+mogi,1,4,miquelianum,1471,three,0.333333333333333,1,2,ind,no
+mogi,1,4,miquelianum,1471,two,0,1,2,ind,no
+mogi,1,8,miquelianum,1473,five,0,,1,clone,no
+mogi,1,8,miquelianum,1473,four,0,1,1,clone,no
+mogi,1,8,miquelianum,1473,one,50,1,1,clone,no
+mogi,1,8,miquelianum,1473,three,16.6666666666667,1,1,clone,no
+mogi,1,8,miquelianum,1473,two,54,1,1,clone,no
+mogi,1,3,arboreum,1475,five,7.8,,4,clone,no
+mogi,1,3,arboreum,1475,four,0.625,1,4,clone,no
+mogi,1,3,arboreum,1475,one,0.2,1,4,clone,no
+mogi,1,3,arboreum,1475,three,0.571428571428571,1,4,clone,no
+mogi,1,3,arboreum,1475,two,0.2,1,4,clone,no
+mogi,1,7,crassinervium,1476,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1476,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1476,one,4,0,1,ind,no
+mogi,1,7,crassinervium,1476,three,NA,0,1,ind,no
+mogi,1,7,crassinervium,1476,two,NA,0,1,ind,no
+mogi,1,6,miquelianum,1477,five,5.53658536585366,,1,ind,no
+mogi,1,6,miquelianum,1477,four,10.5,1,1,ind,no
+mogi,1,6,miquelianum,1477,one,0,1,1,ind,no
+mogi,1,6,miquelianum,1477,three,0,1,1,ind,no
+mogi,1,6,miquelianum,1477,two,19.5,1,1,ind,no
+mogi,1,6,miquelianum,1478,five,4.58333333333333,,1,ind,no
+mogi,1,6,miquelianum,1478,four,0,1,1,ind,no
+mogi,1,6,miquelianum,1478,one,0,1,1,ind,no
+mogi,1,6,miquelianum,1478,three,0.4,1,1,ind,no
+mogi,1,6,miquelianum,1478,two,0,1,1,ind,no
+mogi,1,9,arboreum,1479,five,3.15789473684211,,1,ind,no
+mogi,1,9,arboreum,1479,four,0,1,1,ind,no
+mogi,1,9,arboreum,1479,one,3.5,1,1,ind,no
+mogi,1,9,arboreum,1479,three,1.16666666666667,1,1,ind,no
+mogi,1,9,arboreum,1479,two,18.4,1,1,ind,no
+mogi,1,9,arboreum,1480,five,NA,,1,ind,no
+mogi,1,9,arboreum,1480,four,NA,0,1,ind,no
+mogi,1,9,arboreum,1480,one,6,1,1,ind,no
+mogi,1,9,arboreum,1480,three,NA,0,1,ind,no
+mogi,1,9,arboreum,1480,two,0,0,1,ind,no
+mogi,2,5,richardifolium,1481,five,NA,,2,clone,no
+mogi,2,5,richardifolium,1481,four,NA,0,2,clone,no
+mogi,2,5,richardifolium,1481,one,15,1,2,clone,no
+mogi,2,5,richardifolium,1481,three,21,0,2,clone,no
+mogi,2,5,richardifolium,1481,two,0,1,2,clone,no
+mogi,1,9,arboreum,1482,five,8.42857142857143,,1,ind,no
+mogi,1,9,arboreum,1482,four,0,1,1,ind,no
+mogi,1,9,arboreum,1482,one,3.5,1,1,ind,no
+mogi,1,9,arboreum,1482,three,3.25,1,1,ind,no
+mogi,1,9,arboreum,1482,two,19.5,1,1,ind,no
+mogi,1,12,arboreum,1483,five,1.16666666666667,,1,clone,no
+mogi,1,12,arboreum,1483,four,0,1,1,clone,no
+mogi,1,12,arboreum,1483,one,8,1,1,clone,no
+mogi,1,12,arboreum,1483,three,13.3333333333333,1,1,clone,no
+mogi,1,12,arboreum,1483,two,12.5,1,1,clone,no
+mogi,1,9,arboreum,1484,five,NA,,1,ind,no
+mogi,1,9,arboreum,1484,four,NA,0,1,ind,no
+mogi,1,9,arboreum,1484,one,0,1,1,ind,no
+mogi,1,9,arboreum,1484,three,0,0,1,ind,no
+mogi,1,9,arboreum,1484,two,3.71428571428571,1,1,ind,no
+mogi,2,2,arboreum,1485,five,20.5217391304348,,4,ind,no
+mogi,2,2,arboreum,1485,four,0,1,4,ind,no
+mogi,2,2,arboreum,1485,one,0,1,4,ind,no
+mogi,2,2,arboreum,1485,three,3.71428571428571,1,4,ind,no
+mogi,2,2,arboreum,1485,two,0,1,4,ind,no
+mogi,2,4,crassinervium,1486,five,NA,,1,clone,no
+mogi,2,4,crassinervium,1486,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,1486,one,4,0,1,clone,no
+mogi,2,4,crassinervium,1486,three,NA,0,1,clone,no
+mogi,2,4,crassinervium,1486,two,NA,0,1,clone,no
+mogi,2,3,arboreum,1487,five,1.38461538461538,,1,ind,no
+mogi,2,3,arboreum,1487,four,0,1,1,ind,no
+mogi,2,3,arboreum,1487,one,0,1,1,ind,no
+mogi,2,3,arboreum,1487,three,0.5,1,1,ind,no
+mogi,2,3,arboreum,1487,two,1.33333333333333,1,1,ind,no
+mogi,2,7,crassinervium,1488,five,NA,,4,clone,no
+mogi,2,7,crassinervium,1488,four,NA,0,4,clone,no
+mogi,2,7,crassinervium,1488,one,34,1,4,clone,no
+mogi,2,7,crassinervium,1488,three,30.25,0,4,clone,no
+mogi,2,7,crassinervium,1488,two,32.5,1,4,clone,no
+mogi,1,12,arboreum,1489,five,4.33333333333333,,1,clone,no
+mogi,1,12,arboreum,1489,four,0,1,1,clone,no
+mogi,1,12,arboreum,1489,one,0,1,1,clone,no
+mogi,1,12,arboreum,1489,three,18.3333333333333,1,1,clone,no
+mogi,1,12,arboreum,1489,two,8,1,1,clone,no
+mogi,2,3,arboreum,1490,five,4.94736842105263,,1,ind,no
+mogi,2,3,arboreum,1490,four,0.25,1,1,ind,no
+mogi,2,3,arboreum,1490,one,0,1,1,ind,no
+mogi,2,3,arboreum,1490,three,1.16666666666667,1,1,ind,no
+mogi,2,3,arboreum,1490,two,0,1,1,ind,no
+mogi,2,3,arboreum,1491,five,9.14285714285714,,1,ind,no
+mogi,2,3,arboreum,1491,four,0,1,1,ind,no
+mogi,2,3,arboreum,1491,one,1.66666666666667,1,1,ind,no
+mogi,2,3,arboreum,1491,three,0,1,1,ind,no
+mogi,2,3,arboreum,1491,two,6.25,1,1,ind,no
+mogi,1,12,arboreum,1492,five,NA,,1,clone,no
+mogi,1,12,arboreum,1492,four,NA,0,1,clone,no
+mogi,1,12,arboreum,1492,one,0,0,1,clone,no
+mogi,1,12,arboreum,1492,three,NA,0,1,clone,no
+mogi,1,12,arboreum,1492,two,NA,0,1,clone,no
+mogi,2,6,miquelianum,1493,five,0.75,,1,ind,no
+mogi,2,6,miquelianum,1493,four,0,1,1,ind,no
+mogi,2,6,miquelianum,1493,one,26.5,1,1,ind,no
+mogi,2,6,miquelianum,1493,three,0.666666666666667,1,1,ind,no
+mogi,2,6,miquelianum,1493,two,0,1,1,ind,no
+mogi,1,12,arboreum,1494,five,6.08333333333333,,1,clone,no
+mogi,1,12,arboreum,1494,four,0,1,1,clone,no
+mogi,1,12,arboreum,1494,one,0,1,1,clone,no
+mogi,1,12,arboreum,1494,three,4.75,1,1,clone,no
+mogi,1,12,arboreum,1494,two,4.66666666666667,1,1,clone,no
+mogi,2,5,miquelianum,1495,five,1,,2,clone,no
+mogi,2,5,miquelianum,1495,four,0,1,2,clone,no
+mogi,2,5,miquelianum,1495,one,17.6666666666667,1,2,clone,no
+mogi,2,5,miquelianum,1495,three,0,1,2,clone,no
+mogi,2,5,miquelianum,1495,two,21.6666666666667,1,2,clone,no
+mogi,1,9,arboreum,1496,five,NA,,1,ind,no
+mogi,1,9,arboreum,1496,four,NA,0,1,ind,no
+mogi,1,9,arboreum,1496,one,3.5,0,1,ind,no
+mogi,1,9,arboreum,1496,three,NA,0,1,ind,no
+mogi,1,9,arboreum,1496,two,NA,0,1,ind,no
+mogi,2,5,miquelianum,1497,five,4.66666666666667,,2,clone,no
+mogi,2,5,miquelianum,1497,four,0,1,2,clone,no
+mogi,2,5,miquelianum,1497,one,25,1,2,clone,no
+mogi,2,5,miquelianum,1497,three,12.5,1,2,clone,no
+mogi,2,5,miquelianum,1497,two,35,1,2,clone,no
+mogi,1,12,arboreum,1498,five,9.91666666666667,,1,clone,no
+mogi,1,12,arboreum,1498,four,0,1,1,clone,no
+mogi,1,12,arboreum,1498,one,0.4,1,1,clone,no
+mogi,1,12,arboreum,1498,three,0.5,1,1,clone,no
+mogi,1,12,arboreum,1498,two,0.5,1,1,clone,no
+mogi,1,9,arboreum,1499,five,0.714285714285714,,1,ind,no
+mogi,1,9,arboreum,1499,four,0,1,1,ind,no
+mogi,1,9,arboreum,1499,one,0,1,1,ind,no
+mogi,1,9,arboreum,1499,three,0.333333333333333,1,1,ind,no
+mogi,1,9,arboreum,1499,two,2,1,1,ind,no
+mogi,1,7,crassinervium,1500,five,NA,,1,ind,no
+mogi,1,7,crassinervium,1500,four,NA,0,1,ind,no
+mogi,1,7,crassinervium,1500,one,0,1,1,ind,no
+mogi,1,7,crassinervium,1500,three,4,0,1,ind,no
+mogi,1,7,crassinervium,1500,two,0,1,1,ind,no
+mogi,1,6,miquelianum,2201,five,NA,,1,ind,no
+mogi,1,6,miquelianum,2201,four,NA,0,1,ind,no
+mogi,1,6,miquelianum,2201,one,41.3333333333333,1,1,ind,no
+mogi,1,6,miquelianum,2201,three,22.6,0,1,ind,no
+mogi,1,6,miquelianum,2201,two,37.6666666666667,1,1,ind,no
+mogi,3,2,miquelianum,2203,five,1,,4,ind,no
+mogi,3,2,miquelianum,2203,four,0,1,4,ind,no
+mogi,3,2,miquelianum,2203,one,17.6666666666667,1,4,ind,no
+mogi,3,2,miquelianum,2203,three,0,1,4,ind,no
+mogi,3,2,miquelianum,2203,two,17.6666666666667,1,4,ind,no
+mogi,3,3,miquelianum,2204,five,NA,,1,clone,no
+mogi,3,3,miquelianum,2204,four,NA,0,1,clone,no
+mogi,3,3,miquelianum,2204,one,4.75,0,1,clone,no
+mogi,3,3,miquelianum,2204,three,NA,0,1,clone,no
+mogi,3,3,miquelianum,2204,two,NA,0,1,clone,no
+mogi,3,2,crassinervium,2205,five,NA,,4,ind,no
+mogi,3,2,crassinervium,2205,four,NA,0,4,ind,no
+mogi,3,2,crassinervium,2205,one,NA,0,4,ind,no
+mogi,3,2,crassinervium,2205,three,NA,0,4,ind,no
+mogi,3,2,crassinervium,2205,two,NA,0,4,ind,no
+mogi,1,5,miquelianum,2207,five,0.5,,4,ind,no
+mogi,1,5,miquelianum,2207,four,15.1666666666667,1,4,ind,no
+mogi,1,5,miquelianum,2207,one,0,1,4,ind,no
+mogi,1,5,miquelianum,2207,three,47.5,1,4,ind,no
+mogi,1,5,miquelianum,2207,two,30.6666666666667,1,4,ind,no
+mogi,1,9,arboreum,2213,five,NA,,1,ind,no
+mogi,1,9,arboreum,2213,four,NA,0,1,ind,no
+mogi,1,9,arboreum,2213,one,2,0,1,ind,no
+mogi,1,9,arboreum,2213,three,NA,0,1,ind,no
+mogi,1,9,arboreum,2213,two,NA,0,1,ind,no
+mogi,3,11,richardifolium,2214,five,4.8,,2,ind,no
+mogi,3,11,richardifolium,2214,four,9.75,1,2,ind,no
+mogi,3,11,richardifolium,2214,one,9.5,1,2,ind,no
+mogi,3,11,richardifolium,2214,three,14,1,2,ind,no
+mogi,3,11,richardifolium,2214,two,17,1,2,ind,no
+mogi,3,9,arboreum,2217,five,NA,,4,clone,no
+mogi,3,9,arboreum,2217,four,NA,0,4,clone,no
+mogi,3,9,arboreum,2217,one,NA,0,4,clone,no
+mogi,3,9,arboreum,2217,three,NA,0,4,clone,no
+mogi,3,9,arboreum,2217,two,NA,0,4,clone,no
+mogi,3,10,richardifolium,2218,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2218,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2218,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2218,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2218,two,NA,0,1,clone,no
+mogi,3,10,richardifolium,2219,five,7.75,,1,clone,no
+mogi,3,10,richardifolium,2219,four,5.25,1,1,clone,no
+mogi,3,10,richardifolium,2219,one,9.33333333333333,1,1,clone,no
+mogi,3,10,richardifolium,2219,three,5.66666666666667,1,1,clone,no
+mogi,3,10,richardifolium,2219,two,0,1,1,clone,no
+mogi,3,12,richardifolium,2221,five,29.8181818181818,,1,ind,no
+mogi,3,12,richardifolium,2221,four,10.8333333333333,1,1,ind,no
+mogi,3,12,richardifolium,2221,one,22.5,1,1,ind,no
+mogi,3,12,richardifolium,2221,three,16.6666666666667,1,1,ind,no
+mogi,3,12,richardifolium,2221,two,25,1,1,ind,no
+mogi,3,2,crassinervium,2223,five,NA,,4,ind,no
+mogi,3,2,crassinervium,2223,four,NA,0,4,ind,no
+mogi,3,2,crassinervium,2223,one,NA,0,4,ind,no
+mogi,3,2,crassinervium,2223,three,NA,0,4,ind,no
+mogi,3,2,crassinervium,2223,two,NA,0,4,ind,no
+mogi,3,2,richardifolium,2224,five,NA,,4,ind,no
+mogi,3,2,richardifolium,2224,four,NA,0,4,ind,no
+mogi,3,2,richardifolium,2224,one,2,0,4,ind,no
+mogi,3,2,richardifolium,2224,three,NA,0,4,ind,no
+mogi,3,2,richardifolium,2224,two,NA,0,4,ind,no
+mogi,3,9,arboreum,2226,five,NA,,4,clone,no
+mogi,3,9,arboreum,2226,four,0.2,0,4,clone,no
+mogi,3,9,arboreum,2226,one,3.33333333333333,1,4,clone,no
+mogi,3,9,arboreum,2226,three,0.571428571428571,1,4,clone,no
+mogi,3,9,arboreum,2226,two,0,1,4,clone,no
+mogi,3,1,crassinervium,2228,five,NA,,1,ind,no
+mogi,3,1,crassinervium,2228,four,NA,0,1,ind,no
+mogi,3,1,crassinervium,2228,one,22,0,1,ind,no
+mogi,3,1,crassinervium,2228,three,NA,0,1,ind,no
+mogi,3,1,crassinervium,2228,two,NA,0,1,ind,no
+mogi,3,12,richardifolium,2233,five,NA,,1,ind,no
+mogi,3,12,richardifolium,2233,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,2233,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,2233,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,2233,two,NA,0,1,ind,no
+mogi,2,11,richardifolium,2234,five,NA,,1,ind,no
+mogi,2,11,richardifolium,2234,four,NA,0,1,ind,no
+mogi,2,11,richardifolium,2234,one,NA,0,1,ind,no
+mogi,2,11,richardifolium,2234,three,NA,0,1,ind,no
+mogi,2,11,richardifolium,2234,two,NA,0,1,ind,no
+mogi,3,8,arboreum,2237,five,NA,,1,ind,no
+mogi,3,8,arboreum,2237,four,NA,0,1,ind,no
+mogi,3,8,arboreum,2237,one,2,0,1,ind,no
+mogi,3,8,arboreum,2237,three,NA,0,1,ind,no
+mogi,3,8,arboreum,2237,two,NA,0,1,ind,no
+mogi,3,9,richardifolium,2238,five,NA,,4,clone,no
+mogi,3,9,richardifolium,2238,four,NA,0,4,clone,no
+mogi,3,9,richardifolium,2238,one,0,1,4,clone,no
+mogi,3,9,richardifolium,2238,three,16,0,4,clone,no
+mogi,3,9,richardifolium,2238,two,0,1,4,clone,no
+mogi,3,11,richardifolium,2239,five,NA,,2,ind,no
+mogi,3,11,richardifolium,2239,four,4,0,2,ind,no
+mogi,3,11,richardifolium,2239,one,38,1,2,ind,no
+mogi,3,11,richardifolium,2239,three,6,1,2,ind,no
+mogi,3,11,richardifolium,2239,two,0,1,2,ind,no
+mogi,3,5,miquelianum,2240,five,8.8,,1,ind,no
+mogi,3,5,miquelianum,2240,four,0,1,1,ind,no
+mogi,3,5,miquelianum,2240,one,32.5,1,1,ind,no
+mogi,3,5,miquelianum,2240,three,0.5,1,1,ind,no
+mogi,3,5,miquelianum,2240,two,29.5,1,1,ind,no
+mogi,1,10,richardifolium,2241,five,NA,,1,clone,no
+mogi,1,10,richardifolium,2241,four,NA,0,1,clone,no
+mogi,1,10,richardifolium,2241,one,NA,0,1,clone,no
+mogi,1,10,richardifolium,2241,three,NA,0,1,clone,no
+mogi,1,10,richardifolium,2241,two,NA,0,1,clone,no
+mogi,3,5,miquelianum,2242,five,0.7,,1,ind,no
+mogi,3,5,miquelianum,2242,four,0,1,1,ind,no
+mogi,3,5,miquelianum,2242,one,82.5,1,1,ind,no
+mogi,3,5,miquelianum,2242,three,0,1,1,ind,no
+mogi,3,5,miquelianum,2242,two,85,1,1,ind,no
+mogi,3,2,crassinervium,2243,five,0,,4,ind,no
+mogi,3,2,crassinervium,2243,four,0,1,4,ind,no
+mogi,3,2,crassinervium,2243,one,2,1,4,ind,no
+mogi,3,2,crassinervium,2243,three,4.25,1,4,ind,no
+mogi,3,2,crassinervium,2243,two,1.5,1,4,ind,no
+mogi,3,5,miquelianum,2244,five,NA,,1,ind,no
+mogi,3,5,miquelianum,2244,four,NA,0,1,ind,no
+mogi,3,5,miquelianum,2244,one,NA,0,1,ind,no
+mogi,3,5,miquelianum,2244,three,NA,0,1,ind,no
+mogi,3,5,miquelianum,2244,two,NA,0,1,ind,no
+mogi,3,10,richardifolium,2249,five,11,,1,clone,no
+mogi,3,10,richardifolium,2249,four,6,1,1,clone,no
+mogi,3,10,richardifolium,2249,one,0,1,1,clone,no
+mogi,3,10,richardifolium,2249,three,15.5,1,1,clone,no
+mogi,3,10,richardifolium,2249,two,8,1,1,clone,no
+mogi,3,9,arboreum,2252,five,NA,,4,clone,no
+mogi,3,9,arboreum,2252,four,NA,0,4,clone,no
+mogi,3,9,arboreum,2252,one,5,0,4,clone,no
+mogi,3,9,arboreum,2252,three,NA,0,4,clone,no
+mogi,3,9,arboreum,2252,two,NA,0,4,clone,no
+mogi,3,10,richardifolium,2253,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2253,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2253,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2253,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2253,two,NA,0,1,clone,no
+mogi,3,10,richardifolium,2254,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2254,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2254,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2254,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2254,two,NA,0,1,clone,no
+mogi,3,5,miquelianum,2255,five,5,,1,ind,no
+mogi,3,5,miquelianum,2255,four,0,1,1,ind,no
+mogi,3,5,miquelianum,2255,one,48.3333333333333,1,1,ind,no
+mogi,3,5,miquelianum,2255,three,33.3333333333333,1,1,ind,no
+mogi,3,5,miquelianum,2255,two,0,1,1,ind,no
+mogi,2,8,arboreum,2257,five,6.77777777777778,,1,clone,no
+mogi,2,8,arboreum,2257,four,0,1,1,clone,no
+mogi,2,8,arboreum,2257,one,6.5,1,1,clone,no
+mogi,2,8,arboreum,2257,three,0,1,1,clone,no
+mogi,2,8,arboreum,2257,two,5,1,1,clone,no
+mogi,3,10,richardifolium,2259,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2259,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2259,one,2,0,1,clone,no
+mogi,3,10,richardifolium,2259,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2259,two,NA,0,1,clone,no
+mogi,3,6,richardifolium,2262,five,NA,,2,clone,no
+mogi,3,6,richardifolium,2262,four,NA,0,2,clone,no
+mogi,3,6,richardifolium,2262,one,NA,0,2,clone,no
+mogi,3,6,richardifolium,2262,three,NA,0,2,clone,no
+mogi,3,6,richardifolium,2262,two,NA,0,2,clone,no
+mogi,3,2,arboreum,2265,five,NA,,4,ind,no
+mogi,3,2,arboreum,2265,four,NA,0,4,ind,no
+mogi,3,2,arboreum,2265,one,1.75,0,4,ind,no
+mogi,3,2,arboreum,2265,three,NA,0,4,ind,no
+mogi,3,2,arboreum,2265,two,NA,0,4,ind,no
+mogi,3,10,richardifolium,2267,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2267,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2267,one,0,0,1,clone,no
+mogi,3,10,richardifolium,2267,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2267,two,NA,0,1,clone,no
+mogi,3,12,richardifolium,2268,five,NA,,1,ind,no
+mogi,3,12,richardifolium,2268,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,2268,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,2268,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,2268,two,NA,0,1,ind,no
+mogi,2,4,crassinervium,2270,five,NA,,1,clone,no
+mogi,2,4,crassinervium,2270,four,NA,0,1,clone,no
+mogi,2,4,crassinervium,2270,one,25,1,1,clone,no
+mogi,2,4,crassinervium,2270,three,2,0,1,clone,no
+mogi,2,4,crassinervium,2270,two,1,1,1,clone,no
+mogi,1,11,richardifolium,2275,five,NA,,1,ind,no
+mogi,1,11,richardifolium,2275,four,NA,0,1,ind,no
+mogi,1,11,richardifolium,2275,one,NA,0,1,ind,no
+mogi,1,11,richardifolium,2275,three,NA,0,1,ind,no
+mogi,1,11,richardifolium,2275,two,NA,0,1,ind,no
+mogi,3,2,richardifolium,2276,five,NA,,4,ind,no
+mogi,3,2,richardifolium,2276,four,NA,0,4,ind,no
+mogi,3,2,richardifolium,2276,one,14,0,4,ind,no
+mogi,3,2,richardifolium,2276,three,NA,0,4,ind,no
+mogi,3,2,richardifolium,2276,two,NA,0,4,ind,no
+mogi,3,10,richardifolium,2278,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2278,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2278,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2278,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2278,two,NA,0,1,clone,no
+mogi,3,12,richardifolium,2280,five,NA,,1,ind,no
+mogi,3,12,richardifolium,2280,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,2280,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,2280,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,2280,two,NA,0,1,ind,no
+mogi,1,5,miquelianum,2282,five,4.66666666666667,,4,ind,no
+mogi,1,5,miquelianum,2282,four,15.8333333333333,1,4,ind,no
+mogi,1,5,miquelianum,2282,one,0,1,4,ind,no
+mogi,1,5,miquelianum,2282,three,16.6666666666667,1,4,ind,no
+mogi,1,5,miquelianum,2282,two,40,1,4,ind,no
+mogi,3,12,richardifolium,2283,five,16.6,,1,ind,no
+mogi,3,12,richardifolium,2283,four,8,1,1,ind,no
+mogi,3,12,richardifolium,2283,one,40.6666666666667,1,1,ind,no
+mogi,3,12,richardifolium,2283,three,0,1,1,ind,no
+mogi,3,12,richardifolium,2283,two,59,1,1,ind,no
+mogi,3,12,richardifolium,2286,five,NA,,1,ind,no
+mogi,3,12,richardifolium,2286,four,NA,0,1,ind,no
+mogi,3,12,richardifolium,2286,one,NA,0,1,ind,no
+mogi,3,12,richardifolium,2286,three,NA,0,1,ind,no
+mogi,3,12,richardifolium,2286,two,NA,0,1,ind,no
+mogi,3,9,richardifolium,2287,five,12.4,,4,clone,no
+mogi,3,9,richardifolium,2287,four,0,1,4,clone,no
+mogi,3,9,richardifolium,2287,one,0,1,4,clone,no
+mogi,3,9,richardifolium,2287,three,0,1,4,clone,no
+mogi,3,9,richardifolium,2287,two,0,1,4,clone,no
+mogi,3,10,richardifolium,2288,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2288,four,30,0,1,clone,no
+mogi,3,10,richardifolium,2288,one,7.33333333333333,1,1,clone,no
+mogi,3,10,richardifolium,2288,three,77.5,1,1,clone,no
+mogi,3,10,richardifolium,2288,two,17.6666666666667,1,1,clone,no
+mogi,3,10,richardifolium,2289,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2289,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2289,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2289,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2289,two,NA,0,1,clone,no
+mogi,3,5,miquelianum,2290,five,2.14285714285714,,1,ind,no
+mogi,3,5,miquelianum,2290,four,0,1,1,ind,no
+mogi,3,5,miquelianum,2290,one,0,1,1,ind,no
+mogi,3,5,miquelianum,2290,three,0,1,1,ind,no
+mogi,3,5,miquelianum,2290,two,0,1,1,ind,no
+mogi,3,2,richardifolium,2292,five,NA,,4,ind,no
+mogi,3,2,richardifolium,2292,four,NA,0,4,ind,no
+mogi,3,2,richardifolium,2292,one,8,0,4,ind,no
+mogi,3,2,richardifolium,2292,three,NA,0,4,ind,no
+mogi,3,2,richardifolium,2292,two,NA,0,4,ind,no
+mogi,3,11,richardifolium,2294,five,NA,,2,ind,no
+mogi,3,11,richardifolium,2294,four,NA,0,2,ind,no
+mogi,3,11,richardifolium,2294,one,2,0,2,ind,no
+mogi,3,11,richardifolium,2294,three,NA,0,2,ind,no
+mogi,3,11,richardifolium,2294,two,NA,0,2,ind,no
+mogi,3,5,miquelianum,2295,five,9.625,,1,ind,no
+mogi,3,5,miquelianum,2295,four,0,1,1,ind,no
+mogi,3,5,miquelianum,2295,one,0,1,1,ind,no
+mogi,3,5,miquelianum,2295,three,0,1,1,ind,no
+mogi,3,5,miquelianum,2295,two,0,1,1,ind,no
+mogi,3,11,richardifolium,2296,five,NA,,2,ind,no
+mogi,3,11,richardifolium,2296,four,NA,0,2,ind,no
+mogi,3,11,richardifolium,2296,one,NA,0,2,ind,no
+mogi,3,11,richardifolium,2296,three,NA,0,2,ind,no
+mogi,3,11,richardifolium,2296,two,NA,0,2,ind,no
+mogi,3,10,richardifolium,2297,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2297,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2297,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2297,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2297,two,NA,0,1,clone,no
+mogi,3,10,richardifolium,2298,five,NA,,1,clone,no
+mogi,3,10,richardifolium,2298,four,NA,0,1,clone,no
+mogi,3,10,richardifolium,2298,one,NA,0,1,clone,no
+mogi,3,10,richardifolium,2298,three,NA,0,1,clone,no
+mogi,3,10,richardifolium,2298,two,NA,0,1,clone,no
+mogi,3,12,richardifolium,2299,five,8,,1,ind,no
+mogi,3,12,richardifolium,2299,four,4,1,1,ind,no
+mogi,3,12,richardifolium,2299,one,28,1,1,ind,no
+mogi,3,12,richardifolium,2299,three,6,1,1,ind,no
+mogi,3,12,richardifolium,2299,two,4.5,1,1,ind,no
+mogi,1,8,miquelianum,2300,five,0.333333333333333,,1,clone,no
+mogi,1,8,miquelianum,2300,four,0,1,1,clone,no
+mogi,1,8,miquelianum,2300,one,30.5,1,1,clone,no
+mogi,1,8,miquelianum,2300,three,20.6666666666667,1,1,clone,no
+mogi,1,8,miquelianum,2300,two,40.5,1,1,clone,no
+mogi,1,12,arboreum,no_tag,five,NA,,1,clone,no
+mogi,1,12,arboreum,no_tag,four,NA,0,1,clone,no
+mogi,1,12,arboreum,no_tag,one,NA,0,1,clone,no
+mogi,1,12,arboreum,no_tag,three,NA,0,1,clone,no
+mogi,1,12,arboreum,no_tag,two,NA,0,1,clone,no
+mogi,2,12,richardifolium,no_tag2,five,NA,,2,ind,no
+mogi,2,12,richardifolium,no_tag2,four,NA,0,2,ind,no
+mogi,2,12,richardifolium,no_tag2,one,NA,0,2,ind,no
+mogi,2,12,richardifolium,no_tag2,three,NA,0,2,ind,no
+mogi,2,12,richardifolium,no_tag2,two,NA,0,2,ind,no
+Costa Rica,1,Plot 1,arboreum,2,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,biolleyi,3,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,decurrens,9,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,garagaranum,7,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,imperiale,11,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,multiplinervium,5,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,nudifolium,10,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,peltatum,4,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,pseudobumbratum,6,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,reticulatum,8,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,sancti-felicis,12,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,urostachyum,1,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 10,peltatum,7,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,9,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,10,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,11,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,1,1,10.1818181818182,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,2,1,35.5384615384615,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,3,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,4,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,5,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,6,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 11,imperiale,7,1,39.5,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,8,1,49.8,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,9,1,21.8,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,10,1,19,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,11,1,11.9473684210526,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,12,1,NA,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,1,1,24.5,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,2,1,35,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,3,1,31,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,4,1,19.5,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,5,1,20,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,6,1,3.66666666666667,1,2,clone,no
+Costa Rica,1,Plot 12,decurrens,7,1,15.1,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,8,1,9.2,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,9,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,10,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,11,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,12,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,1,1,6.38461538461539,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,2,1,29.1818181818182,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,3,1,11,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,4,1,20.625,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,5,1,13.625,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,6,1,16.2857142857143,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,7,1,14,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,8,1,10.5,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,9,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,10,1,0,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,11,1,21.3333333333333,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,12,1,15,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,1,1,20.3333333333333,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,2,1,16.5555555555556,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,3,1,25.3333333333333,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,4,1,21,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,5,1,11.6666666666667,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,6,1,29,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,7,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,8,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,10,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,12,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,1,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,2,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,3,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,4,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,5,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,6,1,NA,1,2,ind,flood
+Costa Rica,1,Plot 15,imperiale,7,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,8,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,9,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,10,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,11,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,12,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,1,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,2,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,3,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,4,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,5,1,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,6,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,7,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,8,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,9,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,10,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,11,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,12,1,NA,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,1,1,1,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,2,1,13,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,3,1,9,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,4,1,26.5833333333333,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,5,1,11.7777777777778,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,6,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,7,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,8,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,9,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,10,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,11,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,12,1,NA,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,1,1,33.2,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,2,1,3.75,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,3,1,3.6,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,4,1,0,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,6,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,7,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,8,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,9,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,10,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,11,1,NA,1,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,12,1,NA,1,2,clone,no
+Costa Rica,1,Plot 19,imperiale,1,1,11,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,2,1,7.22222222222222,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,3,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,4,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,5,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,7,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,8,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,9,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,10,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,11,1,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,12,1,NA,1,2,ind,no
+Costa Rica,1,Plot 2,arboreum,1,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,biolleyi,2,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,decurrens,8,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,garagaranum,6,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,imperiale,10,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,multiplinervium,4,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,nudifolium,9,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,peltatum,3,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,pseudobumbratum,5,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,reticulatum,7,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,sancti-felicis,11,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,urostachyum,12,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 20,decurrens,1,1,14,1,2,ind,no
+Costa Rica,1,Plot 20,decurrens,2,1,12.5,1,2,ind,no
+Costa Rica,1,Plot 20,decurrens,3,1,10.6666666666667,1,2,ind,no
+Costa Rica,1,Plot 20,decurrens,4,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,decurrens,5,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,decurrens,6,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,7,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,8,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,9,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,10,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,11,1,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,12,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,7,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,8,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,9,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,10,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,11,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,12,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,1,1,5.4,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,2,1,22.1666666666667,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,3,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,4,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,5,1,NA,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,6,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,peltatum,1,1,9,1,2,ind,no
+Costa Rica,1,Plot 22,peltatum,2,1,14.25,1,2,ind,no
+Costa Rica,1,Plot 22,peltatum,3,1,7,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,4,1,12,1,2,ind,no
+Costa Rica,1,Plot 22,peltatum,5,1,4.33333333333333,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,6,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,7,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,9,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,10,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,11,1,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,12,1,NA,1,2,ind,no
+Costa Rica,1,Plot 23,imperiale,1,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,2,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,4,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,5,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,6,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,7,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,8,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,9,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,10,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,11,1,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,12,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,1,1,26.1818181818182,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,2,1,32.5,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,3,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,4,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,5,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,6,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,7,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,8,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,9,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,10,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,11,1,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,12,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,1,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,2,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,3,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,4,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,5,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,6,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,7,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,8,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,9,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,10,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,11,1,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,12,1,NA,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,1,1,42.5,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,2,1,21,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,3,1,51,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,4,1,34.5,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,5,1,35.6666666666667,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,6,1,52.3333333333333,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,7,1,13.5,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,8,1,29,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,9,1,NA,1,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,10,1,NA,1,1,clone,no
+Costa Rica,1,Plot 27,imperiale,1,1,34.75,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,2,1,3.5,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,3,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,4,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,5,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,6,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,7,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,8,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,9,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,10,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,11,1,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,12,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,1,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,2,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,3,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,4,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,5,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,6,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,7,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,8,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,9,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,10,1,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,11,1,NA,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,1,1,10.4666666666667,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,2,1,8.8,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,3,1,34.6,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,4,1,27,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,5,1,11.8461538461538,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,6,1,7.2,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,7,1,3.375,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,8,1,9.5625,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,9,1,26.2,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,10,1,14.6363636363636,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,11,1,9.45454545454546,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,12,1,NA,1,1,ind,no
+Costa Rica,1,Plot 3,arboreum,3,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,biolleyi,4,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,decurrens,10,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,garagaranum,8,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,imperiale,12,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,multiplinervium,6,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,nudifolium,11,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,peltatum,5,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,pseudobumbratum,7,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,reticulatum,9,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,sancti-felicis,1,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,urostachyum,2,1,NA,1,12,ind,flood
+Costa Rica,1,Plot 30,reticulatum,1,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,3,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,5,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,6,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,7,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,9,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,10,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,11,1,NA,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,12,1,NA,1,1,ind,no
+Costa Rica,1,Plot 4,arboreum,1,1,3.25,1,12,ind,no
+Costa Rica,1,Plot 4,biolleyi,5,1,0,1,12,ind,no
+Costa Rica,1,Plot 4,decurrens,3,1,9.66666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,garagaranum,11,1,3.5,1,12,ind,no
+Costa Rica,1,Plot 4,imperiale,6,1,0.333333333333333,1,12,ind,no
+Costa Rica,1,Plot 4,multiplinervium,2,1,24.1666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,nudifolium,7,1,0,1,12,ind,no
+Costa Rica,1,Plot 4,peltatum,12,1,1.25,1,12,ind,no
+Costa Rica,1,Plot 4,pseudobumbratum,8,1,10,1,12,ind,no
+Costa Rica,1,Plot 4,reticulatum,10,1,20.6666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,sancti-felicis,9,1,4.66666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,urostachyum,4,1,23.4,1,12,ind,no
+Costa Rica,1,Plot 5,arboreum,11,1,NA,1,12,ind,no
+Costa Rica,1,Plot 5,biolleyi,12,1,NA,1,12,ind,no
+Costa Rica,1,Plot 5,decurrens,6,1,1.5,1,12,ind,no
+Costa Rica,1,Plot 5,garagaranum,4,1,11,1,12,ind,no
+Costa Rica,1,Plot 5,imperiale,8,1,NA,1,12,ind,no
+Costa Rica,1,Plot 5,multiplinervium,2,1,13.4444444444444,1,12,ind,no
+Costa Rica,1,Plot 5,nudifolium,7,1,0,1,12,ind,no
+Costa Rica,1,Plot 5,peltatum,1,1,12.4666666666667,1,12,ind,no
+Costa Rica,1,Plot 5,pseudobumbratum,3,1,18.8095238095238,1,12,ind,no
+Costa Rica,1,Plot 5,reticulatum,5,1,32,1,12,ind,no
+Costa Rica,1,Plot 5,sancti-felicis,10,1,NA,1,12,ind,no
+Costa Rica,1,Plot 5,urostachyum,9,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,arboreum,12,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,biolleyi,1,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,decurrens,7,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,garagaranum,5,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,imperiale,9,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,multiplinervium,3,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,nudifolium,8,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,pseudobumbratum,4,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,reticulatum,6,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,sancti-felicis,10,1,NA,1,12,ind,no
+Costa Rica,1,Plot 6,urostachyum,11,1,NA,1,12,ind,no
+Costa Rica,1,Plot 7,imperiale,1,1,21.5,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,2,1,1.5,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,3,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,4,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,5,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,6,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,7,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,8,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,9,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,11,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,12,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,1,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,2,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,3,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,4,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,5,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,6,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,7,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,8,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,9,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,10,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,11,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,12,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,1,1,5.94736842105263,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,2,1,4.05882352941176,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,3,1,31.6666666666667,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,4,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,5,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,6,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,7,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,8,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,9,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,10,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,11,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,12,1,NA,1,2,clone,flood
+Costa Rica,1,Plot 1,arboreum,2,2,13.75,0,12,ind,flood
+Costa Rica,1,Plot 1,biolleyi,3,2,26.6666666666667,1,12,ind,flood
+Costa Rica,1,Plot 1,decurrens,9,2,0.333333333333333,0,12,ind,flood
+Costa Rica,1,Plot 1,garagaranum,7,2,20,0,12,ind,flood
+Costa Rica,1,Plot 1,imperiale,11,2,45,1,12,ind,flood
+Costa Rica,1,Plot 1,multiplinervium,5,2,45,1,12,ind,flood
+Costa Rica,1,Plot 1,nudifolium,10,2,33.3333333333333,1,12,ind,flood
+Costa Rica,1,Plot 1,peltatum,4,2,12,1,12,ind,flood
+Costa Rica,1,Plot 1,pseudobumbratum,6,2,24.3333333333333,1,12,ind,flood
+Costa Rica,1,Plot 1,reticulatum,8,2,42.5,1,12,ind,flood
+Costa Rica,1,Plot 1,sancti-felicis,12,2,20,0,12,ind,flood
+Costa Rica,1,Plot 1,urostachyum,1,2,33.6666666666667,1,12,ind,flood
+Costa Rica,1,Plot 10,peltatum,7,2,0,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,9,2,2,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,10,2,0,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,11,2,3.33333333333333,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,1,2,29.5,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,2,2,45,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,3,2,40,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,4,2,16.6666666666667,1,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,5,2,18,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,6,2,30,0,2,clone,flood
+Costa Rica,1,Plot 11,imperiale,7,2,45.25,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,8,2,40.25,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,9,2,42.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,10,2,38.3333333333333,0,2,clone,no
+Costa Rica,1,Plot 11,imperiale,11,2,27.4,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,12,2,45.25,0,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,1,2,21,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,2,2,50,0,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,3,2,40.5,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,4,2,27.3333333333333,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,5,2,41.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,6,2,55,0,2,clone,no
+Costa Rica,1,Plot 12,decurrens,7,2,0,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,8,2,2.6,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,9,2,0.333333333333333,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,10,2,0,0,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,11,2,0,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,12,2,0,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,1,2,43.3333333333333,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,2,2,23.4,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,3,2,26.5,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,4,2,32.5,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,5,2,37,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,6,2,45.3333333333333,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,7,2,28.75,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,8,2,0.285714285714286,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,9,2,45,0,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,10,2,0,0,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,11,2,2.57142857142857,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,12,2,85,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,1,2,21.5,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,2,2,32.5,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,3,2,15.75,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,4,2,19,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,5,2,9,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,6,2,18,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,7,2,7.33333333333333,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,8,2,10,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,10,2,9.33333333333333,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,12,2,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,1,2,70,0,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,2,2,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,3,2,50,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,4,2,71.6666666666667,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,5,2,52.6666666666667,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,6,2,NA,1,2,ind,flood
+Costa Rica,1,Plot 15,imperiale,7,2,90,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,8,2,43,0,2,clone,no
+Costa Rica,1,Plot 15,imperiale,9,2,16.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,10,2,10.5,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,11,2,41.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,12,2,31,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,1,2,30,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,2,2,34.3333333333333,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,3,2,0,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,4,2,33.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,5,2,56,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,6,2,30.3333333333333,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,7,2,8.28571428571429,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,8,2,0.666666666666667,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,9,2,10.2222222222222,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,10,2,31,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,11,2,0,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,12,2,0,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,1,2,31.3333333333333,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,2,2,42.5,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,3,2,29,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,4,2,40.6666666666667,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,5,2,30.25,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,6,2,23.6,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,7,2,8.66666666666667,0,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,8,2,23.6666666666667,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,9,2,35,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,10,2,3,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,11,2,0,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,12,2,4,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,1,2,2,0,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,2,2,14,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,3,2,11.25,0,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,4,2,0.75,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,6,2,3,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,7,2,0,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,8,2,4,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,9,2,10.75,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,10,2,1.75,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,11,2,0.5,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,12,2,8.8,0,2,clone,no
+Costa Rica,1,Plot 19,imperiale,1,2,45,0,2,ind,no
+Costa Rica,1,Plot 19,imperiale,2,2,33.2857142857143,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,3,2,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,4,2,38,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,5,2,38.1428571428571,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,7,2,39.3333333333333,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,8,2,27.5,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,9,2,37.25,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,10,2,32.5,0,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,11,2,37.5,0,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,12,2,50,0,2,ind,no
+Costa Rica,1,Plot 2,arboreum,1,2,33.75,1,12,ind,flood
+Costa Rica,1,Plot 2,biolleyi,2,2,15.75,1,12,ind,flood
+Costa Rica,1,Plot 2,decurrens,8,2,23,1,12,ind,flood
+Costa Rica,1,Plot 2,garagaranum,6,2,5,1,12,ind,flood
+Costa Rica,1,Plot 2,imperiale,10,2,33,1,12,ind,flood
+Costa Rica,1,Plot 2,multiplinervium,4,2,6.66666666666667,1,12,ind,flood
+Costa Rica,1,Plot 2,nudifolium,9,2,19.3333333333333,1,12,ind,flood
+Costa Rica,1,Plot 2,peltatum,3,2,9,1,12,ind,flood
+Costa Rica,1,Plot 2,pseudobumbratum,5,2,30,1,12,ind,flood
+Costa Rica,1,Plot 2,reticulatum,7,2,50,1,12,ind,flood
+Costa Rica,1,Plot 2,sancti-felicis,11,2,11.5,1,12,ind,flood
+Costa Rica,1,Plot 2,urostachyum,12,2,47.5,1,12,ind,flood
+Costa Rica,1,Plot 20,decurrens,1,2,0,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,2,2,10.5,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,3,2,10.2,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,4,2,2,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,5,2,2,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,6,2,0,0,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,7,2,38.6666666666667,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,8,2,13.3333333333333,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,9,2,22.5,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,10,2,19.25,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,11,2,18.5,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,12,2,36.6666666666667,0,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,7,2,28.75,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,8,2,38.25,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,9,2,46.25,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,10,2,26.4,0,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,11,2,7.85714285714286,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,12,2,10.75,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,1,2,16,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,2,2,18,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,3,2,18,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,4,2,13.5,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,5,2,7,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,6,2,15.4,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,1,2,9,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,2,2,2,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,3,2,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,4,2,2,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,5,2,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,6,2,1,0,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,7,2,2,0,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,9,2,0.666666666666667,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,10,2,38,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,11,2,18,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,12,2,33.8,1,2,ind,no
+Costa Rica,1,Plot 23,imperiale,1,2,30.5,0,1,clone,no
+Costa Rica,1,Plot 23,imperiale,2,2,45,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,4,2,47.6666666666667,0,1,clone,no
+Costa Rica,1,Plot 23,imperiale,5,2,34.5,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,6,2,30.5,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,7,2,58,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,8,2,20.3333333333333,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,9,2,58.5,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,10,2,59,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,11,2,28.25,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,12,2,56,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,1,2,48.75,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,2,2,51.6666666666667,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,3,2,30,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,4,2,20.2,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,5,2,47.5,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,6,2,31.25,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,7,2,54.6666666666667,0,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,8,2,44,0,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,9,2,30,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,10,2,46.25,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,11,2,58.3333333333333,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,12,2,25.8,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,1,2,46,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,2,2,3.5,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,3,2,81.5,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,4,2,50,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,5,2,25,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,6,2,3.5,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,7,2,54,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,8,2,50,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,9,2,10,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,10,2,53.3333333333333,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,11,2,50,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,12,2,50,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,1,2,9.5,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,2,2,47,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,3,2,60,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,4,2,51,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,5,2,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,6,2,7.66666666666667,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,7,2,42.5,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,8,2,36,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,9,2,15.5,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,10,2,40,0,1,clone,no
+Costa Rica,1,Plot 27,imperiale,1,2,13.75,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,2,2,22.5,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,3,2,37.4,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,4,2,32.2,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,5,2,33.3333333333333,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,6,2,35.25,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,7,2,32,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,8,2,40.6666666666667,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,9,2,23.5,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,10,2,41.5,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,11,2,22.3333333333333,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,12,2,18.75,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,1,2,26.75,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,2,2,28.375,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,3,2,50,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,4,2,39.5,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,5,2,41,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,6,2,36.6,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,7,2,40,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,8,2,27.75,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,9,2,44.75,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,10,2,1.33333333333333,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,11,2,35.6666666666667,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,1,2,9,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,2,2,21,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,3,2,5.33333333333333,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,4,2,12.75,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,5,2,3.75,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,6,2,19.6666666666667,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,7,2,11,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,8,2,9,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,9,2,30.25,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,10,2,2.75,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,11,2,24.5,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,12,2,29,0,1,ind,no
+Costa Rica,1,Plot 3,arboreum,3,2,41.5,1,12,ind,flood
+Costa Rica,1,Plot 3,biolleyi,4,2,27.5,0,12,ind,flood
+Costa Rica,1,Plot 3,decurrens,10,2,0.75,1,12,ind,flood
+Costa Rica,1,Plot 3,garagaranum,8,2,28.4,1,12,ind,flood
+Costa Rica,1,Plot 3,imperiale,12,2,25,1,12,ind,flood
+Costa Rica,1,Plot 3,multiplinervium,6,2,25.5,0,12,ind,flood
+Costa Rica,1,Plot 3,nudifolium,11,2,36.6666666666667,0,12,ind,flood
+Costa Rica,1,Plot 3,peltatum,5,2,12.5,0,12,ind,flood
+Costa Rica,1,Plot 3,pseudobumbratum,7,2,16.6666666666667,1,12,ind,flood
+Costa Rica,1,Plot 3,reticulatum,9,2,50,0,12,ind,flood
+Costa Rica,1,Plot 3,sancti-felicis,1,2,55,1,12,ind,flood
+Costa Rica,1,Plot 3,urostachyum,2,2,33.25,1,12,ind,flood
+Costa Rica,1,Plot 30,reticulatum,1,2,63,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,3,2,8.33333333333333,1,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,5,2,4,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,6,2,16,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,7,2,6.75,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,9,2,2.66666666666667,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,10,2,0,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,11,2,42.75,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,12,2,12.3333333333333,0,1,ind,no
+Costa Rica,1,Plot 4,arboreum,1,2,29.4444444444444,1,12,ind,no
+Costa Rica,1,Plot 4,biolleyi,5,2,18,0,12,ind,no
+Costa Rica,1,Plot 4,decurrens,3,2,17,1,12,ind,no
+Costa Rica,1,Plot 4,garagaranum,11,2,10.8,1,12,ind,no
+Costa Rica,1,Plot 4,imperiale,6,2,23.6666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,multiplinervium,2,2,14.1666666666667,1,12,ind,no
+Costa Rica,1,Plot 4,nudifolium,7,2,40,0,12,ind,no
+Costa Rica,1,Plot 4,peltatum,12,2,6.33333333333333,0,12,ind,no
+Costa Rica,1,Plot 4,pseudobumbratum,8,2,13.3333333333333,1,12,ind,no
+Costa Rica,1,Plot 4,reticulatum,10,2,55,0,12,ind,no
+Costa Rica,1,Plot 4,sancti-felicis,9,2,30.8333333333333,0,12,ind,no
+Costa Rica,1,Plot 4,urostachyum,4,2,39,1,12,ind,no
+Costa Rica,1,Plot 5,arboreum,11,2,25.4,0,12,ind,no
+Costa Rica,1,Plot 5,biolleyi,12,2,55,1,12,ind,no
+Costa Rica,1,Plot 5,decurrens,6,2,5.4,1,12,ind,no
+Costa Rica,1,Plot 5,garagaranum,4,2,15,1,12,ind,no
+Costa Rica,1,Plot 5,imperiale,8,2,31.3333333333333,1,12,ind,no
+Costa Rica,1,Plot 5,multiplinervium,2,2,4,0,12,ind,no
+Costa Rica,1,Plot 5,nudifolium,7,2,7.4,1,12,ind,no
+Costa Rica,1,Plot 5,peltatum,1,2,20,1,12,ind,no
+Costa Rica,1,Plot 5,pseudobumbratum,3,2,8.66666666666667,1,12,ind,no
+Costa Rica,1,Plot 5,reticulatum,5,2,44.3333333333333,0,12,ind,no
+Costa Rica,1,Plot 5,sancti-felicis,10,2,16.6666666666667,1,12,ind,no
+Costa Rica,1,Plot 5,urostachyum,9,2,27.5,0,12,ind,no
+Costa Rica,1,Plot 6,arboreum,12,2,42.5,1,12,ind,no
+Costa Rica,1,Plot 6,biolleyi,1,2,26,0,12,ind,no
+Costa Rica,1,Plot 6,decurrens,7,2,1,0,12,ind,no
+Costa Rica,1,Plot 6,garagaranum,5,2,20.7142857142857,0,12,ind,no
+Costa Rica,1,Plot 6,imperiale,9,2,85,0,12,ind,no
+Costa Rica,1,Plot 6,multiplinervium,3,2,62.5,0,12,ind,no
+Costa Rica,1,Plot 6,nudifolium,8,2,3,0,12,ind,no
+Costa Rica,1,Plot 6,pseudobumbratum,4,2,4.33333333333333,0,12,ind,no
+Costa Rica,1,Plot 6,reticulatum,6,2,50,0,12,ind,no
+Costa Rica,1,Plot 6,sancti-felicis,10,2,22.1666666666667,0,12,ind,no
+Costa Rica,1,Plot 6,urostachyum,11,2,30.3333333333333,1,12,ind,no
+Costa Rica,1,Plot 7,imperiale,1,2,25,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,2,2,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,3,2,26.6,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,4,2,56.6666666666667,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,5,2,31.6666666666667,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,6,2,27,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,7,2,6,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,8,2,25,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,9,2,21.1428571428571,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,11,2,20,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,12,2,30,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,1,2,14.1428571428571,0,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,2,2,4,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,3,2,0,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,4,2,0.6,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,5,2,6.81818181818182,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,6,2,6.2,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,7,2,36.4,0,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,8,2,2,0,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,9,2,29.2,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,10,2,51.25,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,11,2,42.5,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,12,2,27.5,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,1,2,20,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,2,2,37.5,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,3,2,30,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,4,2,27.3333333333333,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,5,2,0,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,6,2,17,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,7,2,18.5,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,8,2,16,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,9,2,17,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,10,2,2,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,11,2,13.5,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,12,2,0.666666666666667,0,2,clone,flood
+Costa Rica,1,Plot 1,arboreum,2,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 1,biolleyi,3,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,decurrens,9,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 1,garagaranum,7,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 1,imperiale,11,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,multiplinervium,5,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,nudifolium,10,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,peltatum,4,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,pseudobumbratum,6,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,reticulatum,8,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 1,sancti-felicis,12,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 1,urostachyum,1,3,40.4,1,12,ind,flood
+Costa Rica,1,Plot 10,peltatum,7,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,9,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,10,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,peltatum,11,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,1,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,2,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,3,3,30,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,4,3,40,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,5,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 10,reticulatum,6,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 11,imperiale,7,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,8,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,9,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,imperiale,10,3,NA,0,2,clone,no
+Costa Rica,1,Plot 11,imperiale,11,3,72.3333333333333,0,2,clone,no
+Costa Rica,1,Plot 11,imperiale,12,3,NA,0,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,1,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,2,3,NA,0,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,3,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,4,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,5,3,NA,1,2,clone,no
+Costa Rica,1,Plot 11,nudifolium,6,3,NA,0,2,clone,no
+Costa Rica,1,Plot 12,decurrens,7,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,8,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,9,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,10,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,11,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,decurrens,12,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,1,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,2,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,3,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,4,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,5,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 12,urostachyum,6,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,7,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,8,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,9,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,10,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,11,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,garagaranum,12,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,1,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,2,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,3,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,4,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,5,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 13,pseudobumbratum,6,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,7,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,8,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,10,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 14,peltatum,12,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,1,3,NA,0,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,2,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,3,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,4,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,5,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 14,reticulatum,6,3,NA,1,2,ind,flood
+Costa Rica,1,Plot 15,imperiale,7,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,8,3,NA,0,2,clone,no
+Costa Rica,1,Plot 15,imperiale,9,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,10,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,11,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,imperiale,12,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,1,3,NA,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,2,3,NA,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,3,3,NA,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,4,3,NA,1,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,5,3,NA,0,2,clone,no
+Costa Rica,1,Plot 15,nudifolium,6,3,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,7,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,8,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,9,3,NA,1,2,clone,no
+Costa Rica,1,Plot 16,decurrens,10,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,11,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,decurrens,12,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,1,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,2,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,3,3,NA,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,4,3,NA,0,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,5,3,NA,1,2,clone,no
+Costa Rica,1,Plot 16,urostachyum,6,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,7,3,NA,0,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,8,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,9,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,10,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,11,3,6.66666666666667,1,2,clone,no
+Costa Rica,1,Plot 17,garagaranum,12,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,1,3,NA,0,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,2,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,3,3,NA,0,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,4,3,NA,1,2,clone,no
+Costa Rica,1,Plot 17,pseudobumbratum,6,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,7,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,8,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,9,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,10,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,11,3,NA,0,2,clone,no
+Costa Rica,1,Plot 18,reticulatum,12,3,NA,0,2,clone,no
+Costa Rica,1,Plot 19,imperiale,1,3,NA,0,2,ind,no
+Costa Rica,1,Plot 19,imperiale,2,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,3,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,4,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,imperiale,5,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,7,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,8,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,9,3,NA,1,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,10,3,NA,0,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,11,3,NA,0,2,ind,no
+Costa Rica,1,Plot 19,nudifolium,12,3,NA,0,2,ind,no
+Costa Rica,1,Plot 2,arboreum,1,3,36.25,1,12,ind,flood
+Costa Rica,1,Plot 2,biolleyi,2,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,decurrens,8,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,garagaranum,6,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,imperiale,10,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,multiplinervium,4,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,nudifolium,9,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,peltatum,3,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,pseudobumbratum,5,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,reticulatum,7,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,sancti-felicis,11,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 2,urostachyum,12,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 20,decurrens,1,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,2,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,3,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,4,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,5,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,decurrens,6,3,NA,0,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,7,3,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,8,3,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,9,3,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,10,3,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,11,3,NA,1,2,ind,no
+Costa Rica,1,Plot 20,urostachyum,12,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,7,3,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,8,3,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,9,3,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,10,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,11,3,NA,1,2,ind,no
+Costa Rica,1,Plot 21,garagaranum,12,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,1,3,NA,1,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,2,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,3,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,4,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,5,3,NA,0,2,ind,no
+Costa Rica,1,Plot 21,pseudobumbratum,6,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,1,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,2,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,3,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,4,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,5,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,peltatum,6,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,7,3,NA,0,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,9,3,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,10,3,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,11,3,NA,1,2,ind,no
+Costa Rica,1,Plot 22,reticulatum,12,3,NA,1,2,ind,no
+Costa Rica,1,Plot 23,imperiale,1,3,NA,0,1,clone,no
+Costa Rica,1,Plot 23,imperiale,2,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,4,3,NA,0,1,clone,no
+Costa Rica,1,Plot 23,imperiale,5,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,6,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,7,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,8,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,9,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,10,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,11,3,NA,1,1,clone,no
+Costa Rica,1,Plot 23,imperiale,12,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,1,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,2,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,3,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,4,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,5,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,6,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,7,3,NA,0,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,8,3,NA,0,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,9,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,10,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,11,3,NA,1,1,clone,no
+Costa Rica,1,Plot 24,urostachyum,12,3,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,1,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,2,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,3,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,4,3,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,5,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,6,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,7,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,8,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,9,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,10,3,NA,1,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,11,3,NA,0,1,clone,no
+Costa Rica,1,Plot 25,pseudobumbratum,12,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,1,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,2,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,3,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,4,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,5,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,6,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,7,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,8,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,9,3,NA,0,1,clone,no
+Costa Rica,1,Plot 26,reticulatum,10,3,NA,0,1,clone,no
+Costa Rica,1,Plot 27,imperiale,1,3,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,2,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,3,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,4,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,5,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,6,3,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,7,3,30.8333333333333,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,8,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,9,3,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,10,3,NA,1,1,ind,no
+Costa Rica,1,Plot 27,imperiale,11,3,NA,0,1,ind,no
+Costa Rica,1,Plot 27,imperiale,12,3,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,1,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,2,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,3,3,53.3333333333333,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,4,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,5,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,6,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,7,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,8,3,NA,1,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,9,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,10,3,NA,0,1,ind,no
+Costa Rica,1,Plot 28,urostachyum,11,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,1,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,2,3,NA,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,3,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,4,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,5,3,NA,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,6,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,7,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,8,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,9,3,NA,1,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,10,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,11,3,NA,0,1,ind,no
+Costa Rica,1,Plot 29,pseudobumbratum,12,3,NA,0,1,ind,no
+Costa Rica,1,Plot 3,arboreum,3,3,64,0,12,ind,flood
+Costa Rica,1,Plot 3,biolleyi,4,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 3,decurrens,10,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,garagaranum,8,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,imperiale,12,3,32.6666666666667,1,12,ind,flood
+Costa Rica,1,Plot 3,multiplinervium,6,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 3,nudifolium,11,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 3,peltatum,5,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 3,pseudobumbratum,7,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,reticulatum,9,3,NA,0,12,ind,flood
+Costa Rica,1,Plot 3,sancti-felicis,1,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 3,urostachyum,2,3,NA,1,12,ind,flood
+Costa Rica,1,Plot 30,reticulatum,1,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,3,3,23.3333333333333,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,5,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,6,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,7,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,9,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,10,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,11,3,NA,0,1,ind,no
+Costa Rica,1,Plot 30,reticulatum,12,3,NA,0,1,ind,no
+Costa Rica,1,Plot 4,arboreum,1,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,biolleyi,5,3,NA,0,12,ind,no
+Costa Rica,1,Plot 4,decurrens,3,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,garagaranum,11,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,imperiale,6,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,multiplinervium,2,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,nudifolium,7,3,NA,0,12,ind,no
+Costa Rica,1,Plot 4,peltatum,12,3,NA,0,12,ind,no
+Costa Rica,1,Plot 4,pseudobumbratum,8,3,NA,1,12,ind,no
+Costa Rica,1,Plot 4,reticulatum,10,3,NA,0,12,ind,no
+Costa Rica,1,Plot 4,sancti-felicis,9,3,NA,0,12,ind,no
+Costa Rica,1,Plot 4,urostachyum,4,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,arboreum,11,3,NA,0,12,ind,no
+Costa Rica,1,Plot 5,biolleyi,12,3,58.75,0,12,ind,no
+Costa Rica,1,Plot 5,decurrens,6,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,garagaranum,4,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,imperiale,8,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,multiplinervium,2,3,NA,0,12,ind,no
+Costa Rica,1,Plot 5,nudifolium,7,3,27.4285714285714,1,12,ind,no
+Costa Rica,1,Plot 5,peltatum,1,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,pseudobumbratum,3,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,reticulatum,5,3,NA,0,12,ind,no
+Costa Rica,1,Plot 5,sancti-felicis,10,3,NA,1,12,ind,no
+Costa Rica,1,Plot 5,urostachyum,9,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,arboreum,12,3,61.5,0,12,ind,no
+Costa Rica,1,Plot 6,biolleyi,1,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,decurrens,7,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,garagaranum,5,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,imperiale,9,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,multiplinervium,3,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,nudifolium,8,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,pseudobumbratum,4,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,reticulatum,6,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,sancti-felicis,10,3,NA,0,12,ind,no
+Costa Rica,1,Plot 6,urostachyum,11,3,NA,1,12,ind,no
+Costa Rica,1,Plot 7,imperiale,1,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,2,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,3,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,4,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,5,3,25,1,2,clone,flood
+Costa Rica,1,Plot 7,imperiale,6,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,7,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,8,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,9,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,11,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 7,nudifolium,12,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,1,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,2,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,3,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,4,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,5,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,decurrens,6,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,7,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,8,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,9,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,10,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,11,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 8,urostachyum,12,3,45,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,1,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,2,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,3,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,4,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,5,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,garagaranum,6,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,7,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,8,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,9,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,10,3,NA,0,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,11,3,NA,1,2,clone,flood
+Costa Rica,1,Plot 9,pseudobumbratum,12,3,NA,0,2,clone,flood
